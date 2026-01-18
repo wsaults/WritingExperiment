@@ -1,0 +1,11 @@
+{
+  "type": "rig",
+  "version": 1,
+  "name": "WritingExperiment",
+  "git_url": "https://github.com/wsaults/WritingExperiment.git",
+  "default_branch": "main",
+  "created_at": "2026-01-17T19:51:23.247529-06:00",
+  "beads": {
+    "prefix": "wr"
+  }
+}
