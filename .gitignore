@@ -1,4 +1,7 @@
-plugins/
-.repo.git/
+# Runtime state (agent locks, local state)
 .runtime/
 .beads/redirect
+
+# Gas Town internal
+plugins/
+.repo.git/

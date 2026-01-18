@@ -60,6 +60,101 @@
 - HWFWM protagonist is Australian hipster; ours is American engineer
 - HWFWM tone is more earnest; ours is action-comedy throughout
 
+### The Primal Hunter (Zogarth)
+
+**Relevant Elements**:
+- Earth apocalypse/system arrival scenario (similar to our setup)
+- Fast-paced, addictive pacing
+- Deep worldbuilding with philosophical themes
+- Protagonist uses intelligence/perception over brute force
+
+**Takeaways**:
+- Readers describe it as "pitch-perfect LitRPG"—balance mechanics and story
+- Proves action-focused LitRPG can have thematic depth
+- 8+ books shows long-running series viability
+
+### Defiance of the Fall (J.F. Brink)
+
+**Relevant Elements**:
+- Multiverse transforms Earth (apocalypse scenario)
+- Protagonist starts with nothing, builds power systematically
+- Blends Eastern cultivation with Western LitRPG mechanics
+- 15+ book series
+
+**Takeaways**:
+- "Building from nothing" resonates with readers
+- Hybrid mechanics systems work when internally consistent
+- Extremely long series possible with sustained interest
+
+### Cradle (Will Wight)
+
+**Relevant Elements**:
+- Progression fantasy (cultivation-adjacent)
+- Protagonist born disadvantaged, must earn everything
+- Magic system "blooms into dazzling complexity"
+- Complete 12-book series
+
+**Takeaways**:
+- Called "pure addiction"—pacing and hooks matter
+- Complex magic systems work when introduced gradually
+- Completed series = strong commercial performance
+
+---
+
+## Anti-Patterns to Avoid
+
+### Reader-Identified Problems (from forums/reviews)
+
+**1. The Overpowered MC Trap**
+- Problem: "How can you ever grow if you never lose?"
+- Our solution: Protagonist's SWE skills give edge in *understanding*, not raw power. He exploits systems, doesn't overpower them.
+
+**2. Excessive Stat Boxes**
+- Problem: Readers hate "tediously trudging through every minute drivel" of skill descriptions
+- Our solution: Stats/skills must be skimmable. Mechanical readers can dig in; casual readers can skim without losing narrative.
+
+**3. Info-Dumping**
+- Problem: "Stopping an action scene to explain magic"
+- Our solution: Show system through protagonist's discovery. His confusion = reader's learning moment.
+
+**4. Power Creep Death Spiral**
+- Problem: "What was a large increment becomes trivial...exponential growth destroys relatability"
+- Our solution: Standalone dungeons with unique restrictions. Each dungeon resets advantage via local rules.
+
+**5. Harem Nonsense**
+- Problem: "Unrealistic, add nothing to plot, just plain stupid"
+- Our solution: No harem. Character relationships are meaningful, not collectibles.
+
+**6. Generic Medieval Fantasy**
+- Problem: "Re-skinned medieval fantasy realm" is tired
+- Our solution: Each dungeon has wildly different themes (industrial, organic, abstract). No generic fantasy defaults.
+
+---
+
+## Reader Expectations
+
+### What LitRPG Readers Actively Want
+
+1. **Satisfying Progression**: "People like progress and completing stuff." Numbers going up must *feel* earned.
+
+2. **Smart/Strategic MC**: "Nobody reads LitRPG to see a dumb MC who doesn't understand how to game the system." Our SWE protagonist explicitly fills this need.
+
+3. **Variety Over Raw Power**: "Focus on increasing in adaptability and precision" rather than just bigger numbers. Each dungeon forces new approaches.
+
+4. **Meaningful Setbacks**: "Growth is a winding path, sometimes forward, sometimes back." Protagonist must fail, learn, adapt.
+
+5. **Internally Consistent Rules**: Systems must not contradict themselves. Rules established in Book 1 constrain all future books.
+
+### What Distinguishes Top-Tier Series
+
+Based on analysis of DCC, HWFWM, Primal Hunter, Defiance of the Fall, Cradle:
+
+- **Strong protagonist voice** (all have memorable, distinctive MCs)
+- **Early hook** (first 3 chapters establish stakes and tone)
+- **Mechanical depth without tedium** (systems reward engagement but don't demand it)
+- **Series-level mysteries** (why was Earth chosen? what's the System's origin?)
+- **Comedy that enhances rather than interrupts** (particularly DCC)
+
 ---
 
 ## Structural Decisions
