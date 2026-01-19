@@ -285,6 +285,7 @@ Species whose attitude varies unpredictably.
 | Skivari | Recurring | Mischievous; adores tricking humans for sport |
 | Veloxi | Recurring | Value-based; humans judged by information interest |
 | Nullborn | Recurring | Inexplicable; helps or hinders for unknowable reasons |
+| Pyrovex | Recurring | Interested; respects adaptability but tests harshly |
 
 ### Indifferent
 
@@ -302,7 +303,7 @@ Archetypes guide species role in storytelling.
 
 | Archetype | Species | Notes |
 |-----------|---------|-------|
-| **Warrior** | Harken, Vorrax, Kraveth, Tormak, Skalven, Xelthari | Combat-focused cultures |
+| **Warrior** | Harken, Vorrax, Kraveth, Tormak, Skalven, Xelthari, Pyrovex, Vakari | Combat-focused cultures |
 | **Merchant** | Thex Collective, Keth'oran | Economic/trading focused |
 | **Scholar** | Quorathi | Research, knowledge accumulation |
 | **Healer** | Kindari, Soleth, Velith, Synthara, Orvani, Velathi, Mendari, Sorvani | Support, empathy-driven |
@@ -311,7 +312,7 @@ Archetypes guide species role in storytelling.
 | **Spy** | Nethyrim, Shriven, Veloxi, Phantari | Information gathering, mystery |
 | **Artisan** | Dyathi, Tesseri, Foundari, Verdex | Creation, crafting, making |
 | **Mystic** | Axiom, Serenith, Nullborn, Luminara | Transcendent, unknowable |
-| **Outcast** | Humans, Vethani, Rethaki, Driftari | Outside the system, underdogs |
+| **Outcast** | Humans, Vethani, Rethaki, Driftari, Exili, Remnari | Outside the system, underdogs |
 | **Tyrant** | Velthrani, Thal'vex | Authority, domination |
 | **Predator** | Harken | Hunting, pursuit |
 | **Dominator** | Psythori | Psychic control, mental predation |
