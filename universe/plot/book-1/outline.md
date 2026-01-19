@@ -1,7 +1,7 @@
 # Book 1: Tutorial
 
 ## Book Summary
-Marcus Chen is debugging a pathfinding algorithm when the System arrives, transforming Earth into a hunting ground for an ancient galactic entertainment industry. Trapped in a warehouse-district dungeon with strangers and a malfunctioning tutorial construct, Marcus must survive threats that test him physically, intellectually, and emotionally. By the book's end, he's not just survived—he's discovered he wants to live, formed his first real connections since his divorce, and attracted attention from forces he doesn't yet understand.
+Marcus Reeves is debugging a pathfinding algorithm when the System arrives, transforming Earth into a hunting ground for an ancient galactic entertainment industry. Trapped in a warehouse-district dungeon with strangers and a malfunctioning tutorial construct, Marcus must survive threats that test him physically, intellectually, and emotionally. By the book's end, he's not just survived—he's discovered he wants to live, formed his first real connections since his divorce, and attracted attention from forces he doesn't yet understand.
 
 ## Standalone Satisfaction + Series Hook
 **Satisfaction**: Marcus survives the dungeon, defeats its boss, and escapes with allies. He's transformed from a numb shell going through motions to someone actively engaged with survival.
@@ -256,7 +256,7 @@ Yuki Tanaka arrives in the staging area—she survived her own tutorial instance
 
 More importantly, Marcus receives a notification:
 
-[Contestant Marcus Chen: Performance Review Complete]
+[Contestant Marcus Reeves: Performance Review Complete]
 [Status: Flagged for Enhanced Observation]
 [Sponsor Interest: Registered from multiple factions]
 [System Note: Adaptive problem-solving patterns exceed projected human baseline by 2.3 standard deviations. Continued monitoring authorized.]

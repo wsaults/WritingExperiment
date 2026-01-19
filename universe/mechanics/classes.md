@@ -115,7 +115,7 @@ Most contestants never change class. Those who do usually regret it.
 
 ### Initial Assignment
 
-When the System integrated Marcus Chen, it evaluated:
+When the System integrated Marcus Reeves, it evaluated:
 - High INT, above-average PER
 - Documented skill in systems integration and debugging
 - Pattern-recognition aptitude

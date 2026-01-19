@@ -32,7 +32,7 @@ The Architect doesn't summon contestants—contestants aren't usually significan
 
 The invitation isn't hostile. It's... curious.
 
-[Contestant Marcus Chen: Final Assessment Requested]
+[Contestant Marcus Reeves: Final Assessment Requested]
 [Venue: The Crucible (System-Level Challenge)]
 [Purpose: Determination of Pattern Novelty]
 [Note: This invitation reflects genuine uncertainty. That is rare. Accept or decline—the choice is yours, but outcomes differ significantly.]
@@ -273,7 +273,7 @@ Kin'morath doesn't say anything, but her wing patterns shift through colors that
 
 The System notification appears:
 
-[Contestant Marcus Chen: Status Update]
+[Contestant Marcus Reeves: Status Update]
 [Classification: Anomalous]
 [Recommendation: Continued Observation]
 [Note: Pattern demonstrates unexpected stability in imperfection. Criteria under review.]

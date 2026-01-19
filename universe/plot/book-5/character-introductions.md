@@ -2,7 +2,7 @@
 
 ## Returning Characters - Final Development
 
-### Marcus Chen (Series Completion)
+### Marcus Reeves (Series Completion)
 **Book 5 Status**: Transformed, integrated, ready for whatever comes
 
 **Final Arc**:

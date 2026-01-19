@@ -3,7 +3,7 @@
 ## Meta-Plot Overview
 
 ### Series Premise
-When Earth is selected for "harvesting" by an ancient galactic entertainment consortium, software architect Marcus Chen discovers the apocalypse isn't random destruction—it's content. Surviving the dungeon games means becoming entertainment for civilizations that have watched species like his rise and fall for millions of years. But as Marcus exploits the System's rules in ways its designers never anticipated, he attracts attention from forces that predate the games themselves, forcing him to confront the question: what are the games actually *for*?
+When Earth is selected for "harvesting" by an ancient galactic entertainment consortium, software architect Marcus Reeves discovers the apocalypse isn't random destruction—it's content. Surviving the dungeon games means becoming entertainment for civilizations that have watched species like his rise and fall for millions of years. But as Marcus exploits the System's rules in ways its designers never anticipated, he attracts attention from forces that predate the games themselves, forcing him to confront the question: what are the games actually *for*?
 
 ### Central Question/Theme
 **What makes consciousness worth preserving?** The series explores this through multiple lenses:
@@ -89,7 +89,7 @@ The escalation isn't just bigger enemies; it's larger scales of understanding. E
 
 ## Character Arc Summary
 
-### Protagonist: Marcus Chen
+### Protagonist: Marcus Reeves
 **Arc**: Reactive survivor → Strategic player → System challenger → Something new
 
 - **Book 1**: Numb man forced to care about survival, discovers he wants to live

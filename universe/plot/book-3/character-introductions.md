@@ -16,7 +16,7 @@
 **Key Introduction Lines**:
 > The Kindari who approached us moved differently than Kin'morath—wings fully extended, bioluminescence bright, colors shifting through visible emotional registers without suppression. Open where Kin'morath was controlled.
 >
-> "Marcus Chen. The Liberation Collective has watched your progression with interest." Her voice carried harmonics that my translator rendered as warmth but that I suspected meant more in her native communication.
+> "Marcus Reeves. The Liberation Collective has watched your progression with interest." Her voice carried harmonics that my translator rendered as warmth but that I suspected meant more in her native communication.
 >
 > "Interest in what? Our entertainment value?"
 >

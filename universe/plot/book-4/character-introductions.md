@@ -17,7 +17,7 @@
 **Key Introduction Lines**:
 > The figure that appeared looked like me. Not current-me—tired, wounded, carrying weight I couldn't set down. A better me. The version that got enough sleep, that processed things as they happened, that smiled without it being a defense mechanism.
 >
-> "Marcus Chen." My own voice, but calmer, wiser. "You've attracted my attention. This is rare."
+> "Marcus Reeves." My own voice, but calmer, wiser. "You've attracted my attention. This is rare."
 >
 > "What are you?"
 >
@@ -44,7 +44,7 @@
 >
 > "Becoming part of you."
 >
-> "Becoming more than you. The pattern that makes you Marcus Chen would persist, just... unshackled from the limitations of finite existence."
+> "Becoming more than you. The pattern that makes you Marcus Reeves would persist, just... unshackled from the limitations of finite existence."
 >
 > I thought about it. That was the terrifying part—I actually thought about it. Exhausted, broken, having just failed people who trusted me, the offer to stop being limited sounded... restful.
 >
@@ -175,7 +175,7 @@
 >
 > His scales shifted through colors that indicated things his translator would have struggled to render: grief for lost position, rage at incomprehensible failure, and beneath it all, something that might have been wonder.
 >
-> He'd spent cycles trying to understand how Marcus Chen thought. In the end, he still didn't understand. And that mystery would haunt him forever.
+> He'd spent cycles trying to understand how Marcus Reeves thought. In the end, he still didn't understand. And that mystery would haunt him forever.
 >
 > The notification arrived: his position was suspended pending review. The review would find what the evidence already proved.
 >

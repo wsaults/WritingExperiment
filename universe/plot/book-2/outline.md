@@ -32,7 +32,7 @@ Internal monologue reveals Marcus is functioning but avoiding deeper processing.
 
 Victor Reyes's people intercept a supply run. It's not a fight—it's a message. They kill two members Marcus barely knew, leave the supplies, and deliver a communication:
 
-"Marcus Chen. Your approach is dangerous. Not to me—to everyone who believes your example. Cooperation is for the weak. Leadership is for the strong. You have one week to acknowledge this publicly—join my network as a subordinate node—or I will demonstrate why your philosophy doesn't work."
+"Marcus Reeves. Your approach is dangerous. Not to me—to everyone who believes your example. Cooperation is for the weak. Leadership is for the strong. You have one week to acknowledge this publicly—join my network as a subordinate node—or I will demonstrate why your philosophy doesn't work."
 
 The inciting incident forces Marcus from reactive to proactive. He can't just survive anymore; he has to play political games with someone who has more resources and fewer scruples.
 
@@ -82,7 +82,7 @@ Marcus has to adapt his mental models. The dungeon isn't hostile because it's de
 
 Victor doesn't wait the full week. His people attack the staging area while Marcus's team is in the dungeon. It's not a full assault—it's targeted destruction. They kill Jin Park.
 
-The execution is deliberate, public, designed to demonstrate that Marcus can't protect his people. Jin's death is staged as an example: "This is what following Marcus Chen gets you."
+The execution is deliberate, public, designed to demonstrate that Marcus can't protect his people. Jin's death is staged as an example: "This is what following Marcus Reeves gets you."
 
 Marcus doesn't learn until he returns from the dungeon. The notification is waiting:
 

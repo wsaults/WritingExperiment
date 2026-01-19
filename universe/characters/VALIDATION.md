@@ -12,15 +12,15 @@
 **Word Count**: 3,197 (required: 3,000-5,000)
 
 **Identity**:
-- [x] Full name: Marcus David Chen
+- [x] Full name: Marcus David Reeves
 - [x] Age at series start: 33
 - [x] Physical description: Complete with height, build, features
 - [x] Distinguishing features: Burn scar, finger-tapping habit, squint
 
 **Background**:
 - [x] Pre-apocalypse career details: Lead Systems Architect at Prometheus Automation
-- [x] Family situation: Parents in Sacramento, sister Sarah in Oakland, grandmother
-- [x] Relationship history: Divorced 8 months prior from Jennifer Okonkwo
+- [x] Family situation: Parents in Sacramento, sister Maren in Oakland, grandmother
+- [x] Relationship history: Divorced 8 months prior from Sloane Kessler
 - [x] Where they were when games began: At office, debugging pathfinding issue
 - [x] What they lost: Company, apartment, family contact, assumptions
 

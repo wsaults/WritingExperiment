@@ -260,7 +260,7 @@ Derived stats calculate from primary stats and level:
 
 ---
 
-## Marcus Chen's Starting Build
+## Marcus Reeves's Starting Build
 
 ### Initial Stats (Post-System Integration)
 

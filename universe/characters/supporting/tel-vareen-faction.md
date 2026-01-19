@@ -47,7 +47,7 @@ Tel'vareen speaks with diplomatic precision—every word chosen, implications ca
 
 **Sample 1: First Meeting**
 
-> "Marcus Chen. I am Tel'vareen of the Voice Choir." Her wing patterns shifted in what the translation implant rendered as [GREETING (FORMAL)/ASSESSMENT (ACTIVE)]. "I have followed your performance with professional interest. The Collective finds your survival... politically useful."
+> "Marcus Reeves. I am Tel'vareen of the Voice Choir." Her wing patterns shifted in what the translation implant rendered as [GREETING (FORMAL)/ASSESSMENT (ACTIVE)]. "I have followed your performance with professional interest. The Collective finds your survival... politically useful."
 >
 > "That's refreshingly honest."
 >

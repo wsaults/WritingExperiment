@@ -226,7 +226,7 @@ But the cost has been high:
 The Architect, having witnessed Marcus's refusal, doesn't press. It withdraws its direct attention—but leaves something behind.
 
 **The notification**:
-[Contestant Marcus Chen: Archive Integration Declined]
+[Contestant Marcus Reeves: Archive Integration Declined]
 [Status: Continued Observation Authorized]
 [Note: Subject demonstrates pattern novelty. Optimization criteria under review. Recommendation: Allow extended development before final assessment.]
 

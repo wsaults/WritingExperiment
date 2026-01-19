@@ -1,10 +1,10 @@
-# Protagonist: Marcus Chen
+# Protagonist: Marcus Reeves
 
 ## Identity
 
-**Full Name**: Marcus David Chen
+**Full Name**: Marcus David Reeves
 **Age at Series Start**: 33
-**Physical Description**: 5'10", lean build from forgetting to eat during crunch periods rather than fitness. Mixed Chinese-American heritage shows in his features—dark hair kept short because he can't be bothered with styling, brown eyes that seem perpetually analyzing something. Looks younger than his age until you notice the premature gray coming in at the temples (stress) and the permanent dark circles (also stress, plus insomnia).
+**Physical Description**: 5'10", lean build from forgetting to eat during crunch periods rather than fitness. Brown hair kept short because he can't be bothered with styling, hazel eyes that seem perpetually analyzing something. Looks younger than his age until you notice the premature gray coming in at the temples (stress) and the permanent dark circles (also stress, plus insomnia).
 
 **Distinguishing Features**:
 - Faint burn scar on his right forearm from a robotics prototype that caught fire during a demo (he didn't let go of the controller because the data was still uploading)
@@ -35,15 +35,15 @@
 
 ### Family Situation
 
-**Parents**: Father (David Chen) is a civil engineer, mother (Linda Chen, née Morrison) teaches high school chemistry. Both in Sacramento, both disappointed that Marcus's startup phase has lasted a decade now. They want grandchildren and stable employment, in that order.
+**Parents**: Father (David Reeves) is a civil engineer, mother (Carol Reeves, née Whitfield) teaches high school chemistry. Both in Sacramento, both disappointed that Marcus's startup phase has lasted a decade now. They want grandchildren and stable employment, in that order.
 
-**Siblings**: Younger sister Sarah (28), an ER nurse in Oakland. They're close but don't talk often—both too busy. She'll be one of the first people Marcus worries about when the world ends.
+**Siblings**: Younger sister Maren (28), an ER nurse in Oakland. They're close but don't talk often—both too busy. She'll be one of the first people Marcus worries about when the world ends.
 
-**Extended Family**: Grandmother on his father's side (Po-Po) lives in a care facility in Sacramento. Marcus feels guilty for not visiting enough. His mother's family is scattered across the midwest; he sees them at weddings and funerals.
+**Extended Family**: Grandmother on his father's side (Nana) lives in a care facility in Sacramento. Marcus feels guilty for not visiting enough. His mother's family is scattered across the midwest; he sees them at weddings and funerals.
 
 ### Relationship History
 
-**The Divorce**: Finalized eight months before series start. Ex-wife is Jennifer Okonkwo, a marketing director they hired when Prometheus was twelve people. They dated for two years, married for four. The marriage didn't end with screaming or betrayal—it ended with Jennifer saying, "You're more married to that company than you ever were to me, and I'm tired of being your second priority."
+**The Divorce**: Finalized eight months before series start. Ex-wife is Sloane Kessler, a marketing director they hired when Prometheus was twelve people. They dated for two years, married for four. The marriage didn't end with screaming or betrayal—it ended with Sloane saying, "You're more married to that company than you ever were to me, and I'm tired of being your second priority."
 
 She wasn't wrong. Marcus knows she wasn't wrong. He still works the same hours.
 
@@ -99,7 +99,7 @@ What he didn't lose: his phone (destroyed in the first hour), his wallet (meanin
 ### Flaws
 
 - **Analysis Paralysis**: Sometimes thinks when he should act. Has nearly died more than once while his brain was still processing.
-- **Trust Issues**: Jennifer was right—he keeps people at distance. This makes alliances fragile.
+- **Trust Issues**: Sloane was right—he keeps people at distance. This makes alliances fragile.
 - **Tunnel Vision**: When locked onto a problem, loses awareness of everything else. Has walked into obvious traps while thinking about system exploits.
 - **Pride Disguised as Humility**: Says "I got lucky" but quietly believes he's smarter than most. This arrogance is occasionally justified and frequently dangerous.
 - **Emotional Avoidance**: Suppresses processing of trauma, which compounds into larger breakdowns at inconvenient moments.

@@ -22,7 +22,7 @@ Vor'kethani has served the Entertainment Directorate for over 40,000 cycles—lo
 
 The Earth harvests were supposed to be routine. Primitives generating moderate entertainment value while being systematically extracted. Instead, certain humans have begun generating disproportionate returns—specifically, the kind of creative problem-solving that Velthrani consider "cheating" when practiced by lesser species.
 
-**The Problem**: Marcus Chen has solved three dungeons using methods that violated design assumptions. Not by being stronger or faster—by *thinking differently*. Each success undermines Velthrani claims that their dungeons represent the pinnacle of game design.
+**The Problem**: Marcus Reeves has solved three dungeons using methods that violated design assumptions. Not by being stronger or faster—by *thinking differently*. Each success undermines Velthrani claims that their dungeons represent the pinnacle of game design.
 
 **Primary Goal**: Eliminate Marcus in a manner that demonstrates Velthrani superiority. Simply killing him isn't sufficient; he must be *broken*, forced to acknowledge that his methods were inadequate against proper Velthrani opposition.
 

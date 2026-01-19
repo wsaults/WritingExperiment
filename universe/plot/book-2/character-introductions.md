@@ -16,7 +16,7 @@
 **Key Introduction Lines** (Chapter 8, first direct meeting, after Jin's death):
 > The man who'd ordered Jin's death didn't look like a monster. He looked like exactly what he was: a professional who'd made career choices based on what worked rather than what felt good.
 >
-> "Marcus Chen." His voice was calm, professional. "You've built something interesting here. Inefficient, fragile, but interesting. I'm offering you a chance to make it sustainable."
+> "Marcus Reeves." His voice was calm, professional. "You've built something interesting here. Inefficient, fragile, but interesting. I'm offering you a chance to make it sustainable."
 >
 > "You killed my friend."
 >
@@ -188,7 +188,7 @@
 **Key Introduction Lines**:
 > The Quorathi moved like water finding the easiest path—all efficiency, no wasted motion. Four arms gestured in patterns that their translation implant rendered as emphasis rather than meaning.
 >
-> "I am Vel'san. I represent Syndicate interests in this sector. You've generated attention, Marcus Chen. Attention has value. I'm here to discuss how that value might be monetized."
+> "I am Vel'san. I represent Syndicate interests in this sector. You've generated attention, Marcus Reeves. Attention has value. I'm here to discuss how that value might be monetized."
 >
 > "To whose benefit?"
 >

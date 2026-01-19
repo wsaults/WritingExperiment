@@ -2,7 +2,7 @@
 
 ## Character Foundation
 
-**Name**: Marcus Chen (working name)
+**Name**: Marcus Reeves (working name)
 **Age**: 33
 **Background**: Software Engineer with robotics specialization, worked at a startup before the System arrived
 **Situation**: Recently divorced, at a professional crossroads, thrust into cosmic survival games

@@ -2,7 +2,7 @@
 
 ## Main Characters Introduced
 
-### Marcus Chen (Protagonist)
+### Marcus Reeves (Protagonist)
 **Introduction Scene**: Chapter 1, "Production Bug"
 
 **First Appearance Context**: Marcus is alone at his workstation, debugging a pathfinding algorithm. The scene establishes his environment (Prometheus Automation office in the warehouse district) and his emotional state (functional but hollow).
@@ -103,7 +103,7 @@ Marcus's reaction to the System interface establishes his analytical nature. Ins
 >
 > She almost smiled. It was the first almost-smile I'd seen in the staging area. "Yuki Tanaka. You survived."
 >
-> "Marcus Chen. Also survived. Jury's still out on whether that's net positive."
+> "Marcus Reeves. Also survived. Jury's still out on whether that's net positive."
 
 **Late-Book Positioning**:
 Yuki's introduction in Chapter 23 plants her as a significant future character without forcing her into the Book 1 narrative. The chemistry is established; the partnership develops in Book 2.
