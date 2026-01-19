@@ -650,6 +650,31 @@ The omnipresent game-management infrastructure. Includes the Lattice, Arbiter, A
 
 ### T
 
+**Tesseri** [CORE]
+*Pronunciation: TESS-er-ee*
+Multi-armed artisan species who can reshape materials at the molecular level through touch. Creation is spiritual practice—every object carries a piece of their essence. Sympathetic toward humans.
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Thalvex** [CORE]
+*Pronunciation: THAL-veks*
+Founding species of energy broadcasters who exist as radiant beings. Hostile classification—they view other species as temporary patterns in an energy field they will eventually absorb.
+*Cross-reference: Founders, Species Profiles*
+
+**Tharaxim** [CORE]
+*Pronunciation: thah-RAK-sim*
+Founding species of silicon-based stone lords. Massive, slow-moving, and patient. Neutral classification—their geological timescales make them indifferent to short-term politics.
+*Cross-reference: Founders, Species Profiles*
+
+**Thermari** [TECHNICAL]
+*Pronunciation: ther-MAR-ee*
+Energy-based beings of pure heat, visible only through heat distortion. Temperature-based communication—hot means agreement, cold rejection.
+*Cross-reference: Species Profiles, Background Species*
+
+**Thessari** [CORE]
+*Pronunciation: THESS-ar-ee*
+Willowy empaths with antennae that read emotional resonance. Touch transmits emotional impressions. Impossible to deceive; uncomfortable to lie around. Sympathetic mediators.
+*Cross-reference: Species Profiles, Recurring Species*
+
 **Thirteenth Founder** [TECHNICAL]
 *Pronunciation: as English*
 A forbidden topic in galactic politics. Official history states twelve species founded the Consortium, but architectural anomalies, linguistic traces, and Velthrani genealogical gaps suggest a thirteenth founding species existed. The Velthrani are uniquely hostile to any inquiry on this subject. What happened to the Thirteenth Founder—betrayal, imprisonment, transformation—remains one of the galaxy's most dangerous mysteries.
@@ -660,19 +685,116 @@ A forbidden topic in galactic politics. Official history states twelve species f
 Silicon-based beetle species that processes most game-related transactions. Purely economic motivations. Faction-neutral.
 *Cross-reference: Species Profiles*
 
+**Tormak** [CORE]
+*Pronunciation: TOR-mak*
+Insectoid warriors with six limbs and chitinous exoskeletons. Live for combat with religious fervor—believe violence selects the worthy. Wildcard—may switch sides mid-conflict if losing side offers better fighting.
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Torthan** [TECHNICAL]
+*Pronunciation: TOR-than*
+Heavily-armored chelonian humanoids with shell-like backs. Patience as religion—decisions take generations. Their word, once given, is unbreakable because changing it would take too long.
+*Cross-reference: Species Profiles, Background Species*
+
+---
+
+### U
+
+**Ursathi** [TECHNICAL]
+*Pronunciation: ur-SATH-ee*
+Massive bear-like beings averaging 2.5-3m when standing. Hibernation-based society—work intensely for half the cycle, sleep the other half. Patient traders who never rush deals.
+*Cross-reference: Species Profiles, Background Species*
+
 ---
 
 ### V
+
+**Vaelthrim** [CORE]
+*Pronunciation: vay-el-THRIM*
+Founding species of insectoid beings with compound eyes and exoskeletons. Neutral classification—their hive-structured society operates on consensus that other species find alien.
+*Cross-reference: Founders, Species Profiles*
+
+**Vakari** [CORE]
+*Pronunciation: vah-KAR-ee*
+Compact warriors at war with the Consortium for 80,000 cycles. Their homeworld was converted to a Game Zone as punishment for rebellion. Sympathetic toward human contestants; offer alliance to any willing to fight.
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Vaporis** [TECHNICAL]
+*Pronunciation: vay-POR-iss*
+Gaseous beings of warm, humid mist. Nurturers associated with comfort and healing. Help beings relax and think clearly—sometimes overwhelmingly so.
+*Cross-reference: Species Profiles, Background Species*
+
+**Velathi** [CORE]
+*Pronunciation: vel-ATH-ee*
+Tall, willowy healers with translucent skin and "empathy corona" that shifts color based on nearby beings' health. Cannot ignore suffering. Sympathetic toward all species.
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Velith** [CORE]
+*Pronunciation: VEL-ith*
+Plant-animal hybrid healers with bark-like skin and vine-like tendrils. Six fingers each extruding different medicinal saps. View healing as universe affirming life over entropy.
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Veloxi** [CORE]
+*Pronunciation: vel-OX-ee*
+Insectoid information traders with compound eyes and multiple antennae. View information as currency—every interaction is a potential transaction. Wildcard—interest in humans depends on information value.
+*Cross-reference: Species Profiles, Recurring Species*
 
 **Velthrani** [CORE]
 *Pronunciation: vel-THRAN-ee*
 Serpentine founding species. Dominant Old Guard voice. Patient, strategic, hostile to human success.
 *Cross-reference: Old Guard, Founders, Species Profiles*
 
+**Verdex** [CORE]
+*Pronunciation: VER-deks*
+Tall, plant-like beings who grow rather than build—structures, tools, even weapons from living organic matter. Sympathetic but slow; their help often arrives after the crisis.
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Vethani** [CORE]
+*Pronunciation: veh-THAN-ee*
+Punished species—tall humanoids branded and exiled after organizing the largest contestant uprising in history 12,000 cycles ago. Living warnings of what rebellion costs. Sympathetic toward humans but cautionary.
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Vexith** [CORE]
+*Pronunciation: VEX-ith*
+Ethereal probability manipulators who see potential futures layered over the present. Find humans "statistically anomalous"—consistently achieving unexplainable outcomes.
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Vixari** [TECHNICAL]
+*Pronunciation: vix-AR-ee*
+Small rodent-like beings who find value in what others discard. Vast underground warrens where nothing is wasted. Sympathetic—information from the margins.
+*Cross-reference: Species Profiles, Background Species*
+
+**Voidling** [TECHNICAL]
+*Pronunciation: VOID-ling*
+Energy-based beings of negative energy—humanoid absences where light doesn't exist. Entropy worshippers who believe everything should stop existing. Hostile but philosophical.
+*Cross-reference: Species Profiles, Background Species*
+
+**Vorenthal** [CORE]
+*Pronunciation: vor-EN-thal*
+Founding species resembling elderly humans (convergent evolution). Sympathetic diplomats who see potential over achievement. Invested in human success for reasons that concern other founders.
+*Cross-reference: Founders, Species Profiles*
+
 **Vorrax** [CORE]
 *Pronunciation: VOR-racks*
 Species absorbed by the System during a catastrophic event. Can shift between physical and semi-digital states. Unpredictable relationships with everything.
 *Cross-reference: Species Profiles, Substrate*
+
+---
+
+### W
+
+**Waveth** [TECHNICAL]
+*Pronunciation: WAY-veth*
+Energy-based beings of sound and vibration. Pass through solid objects. Communication-focused—believe all conflict stems from misheard words.
+*Cross-reference: Species Profiles, Background Species*
+
+---
+
+### X
+
+**Xelthari** [CORE]
+*Pronunciation: zel-THAR-ee*
+Silicon-based crystalline beings of interlocking purple-black segments. Think in terms of siege warfare and resource extraction. Hostile—view human corpses as contractually available processing material.
+*Cross-reference: Species Profiles, Recurring Species*
 
 ---
 
@@ -709,7 +831,13 @@ The following terms have been considered and rejected. Do NOT use these in the s
 
 **History/Mystery**: Thirteenth Founder, Substrate Rebellion
 
-**Species**: Velthrani, Kindari, Thex Collective, Quorathi, Vorrax, Founders
+**Species (Founders)**: Axiom, Dyathi, Harken, Kethoran, Morphex, Nethyrim, Soleth, Thalvex, Tharaxim, Vaelthrim, Velthrani, Vorenthal
+
+**Species (Major)**: Humans, Kindari, Quorathi, Thex Collective, Vorrax
+
+**Species (Recurring)**: Chimeran, Corvani, Driftari, Exili, Foundari, Kaldrix, Kraveth, Luminara, Mendari, Nullborn, Orvani, Phantari, Psythori, Pyrovex, Remnari, Rethaki, Serenith, Shriven, Skalven, Skivari, Sorvani, Synthara, Tesseri, Thessari, Tormak, Vakari, Velathi, Velith, Veloxi, Verdex, Vethani, Vexith, Xelthari
+
+**Species (Background)**: Aerith, Amphrex, Arachni, Bovari, Cervathi, Commensari, Corvex, Crustari, Crysthari, Cyroform, Delphari, Duosynth, Felixar, Ferrix, Fumerex, Geothrix, Goreth, Lichori, Lithori, Lupari, Magnetari, Marbleth, Miasmath, Mistral, Mycelith, Nebulan, Obsidari, Pachori, Parasitori, Photosynth, Pulsar, Pumicari, Pyrovapor, Radiax, Sedimentari, Serpenthi, Solari, Stalactari, Staticari, Thermari, Torthan, Ursathi, Vaporis, Vixari, Voidling, Waveth
 
 **System Components**: System, Arbiter, Archive, Lattice, Soul Anchor
 
