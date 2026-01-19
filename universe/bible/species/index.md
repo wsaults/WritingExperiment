@@ -506,25 +506,65 @@ Species with no interest in humans specifically.
 
 ## 5. Narrative Archetype
 
-Archetypes guide species role in storytelling.
+Archetypes guide species role in storytelling. Background species (Tier 3) are listed in *italics*.
+
+### Combat Archetypes
 
 | Archetype | Species | Notes |
 |-----------|---------|-------|
-| **Warrior** | Harken, Vorrax, Kraveth, Tormak, Skalven, Xelthari, Pyrovex, Vakari | Combat-focused cultures |
-| **Merchant** | Thex Collective, Keth'oran | Economic/trading focused |
-| **Scholar** | Quorathi | Research, knowledge accumulation |
-| **Healer** | Kindari, Soleth, Velith, Synthara, Orvani, Velathi, Mendari, Sorvani | Support, empathy-driven |
-| **Trickster** | Morphex, Skivari, Vexith, Chimeran | Deception, chaos, misdirection |
-| **Diplomat** | Vor'enthal, Vaelthrim, Corvani, Thessari, Kaldrix | Mediation, negotiation |
-| **Spy** | Nethyrim, Shriven, Veloxi, Phantari | Information gathering, mystery |
-| **Artisan** | Dyathi, Tesseri, Foundari, Verdex | Creation, crafting, making |
-| **Mystic** | Axiom, Serenith, Nullborn, Luminara | Transcendent, unknowable |
-| **Outcast** | Humans, Vethani, Rethaki, Driftari, Exili, Remnari | Outside the system, underdogs |
+| **Warrior** | Harken, Vorrax, Kraveth, Tormak, Skalven, Xelthari, Pyrovex, Vakari, *Goreth*, *Lupari*, *Bovari* | Combat-focused cultures; honorable fighters |
+| **Predator** | Harken, *Arachni*, *Fumerex*, *Obsidari*, *Voidling*, *Parasitori* | Hunting, pursuit; existential threats |
 | **Tyrant** | Velthrani, Thal'vex | Authority, domination |
-| **Predator** | Harken | Hunting, pursuit |
 | **Dominator** | Psythori | Psychic control, mental predation |
 
-*Note: Species may embody multiple archetypes. Primary archetype listed.*
+### Support Archetypes
+
+| Archetype | Species | Notes |
+|-----------|---------|-------|
+| **Healer** | Kindari, Soleth, Velith, Synthara, Orvani, Velathi, Mendari, Sorvani, *Vaporis*, *Solari* | Support, empathy-driven; restoration |
+| **Diplomat** | Vor'enthal, Vaelthrim, Corvani, Thessari, Kaldrix, *Amphrex*, *Serpenthi*, *Thermari*, *Waveth*, *Commensari*, *Duosynth*, *Lichori* | Mediation, negotiation; bridges between cultures |
+| **Scholar** | Quorathi, *Pachori*, *Sedimentari*, *Miasmath*, *Cyroform*, *Nebulan* | Research, knowledge accumulation; memory-keepers |
+
+### Commerce Archetypes
+
+| Archetype | Species | Notes |
+|-----------|---------|-------|
+| **Merchant** | Thex Collective, Keth'oran, *Corvex*, *Crysthari*, *Ferrix*, *Ursathi*, *Torthan* | Economic/trading focused; contract-makers |
+| **Artisan** | Dyathi, Tesseri, Foundari, Verdex, *Crustari*, *Marbleth*, *Photosynth* | Creation, crafting, making; builders |
+
+### Intrigue Archetypes
+
+| Archetype | Species | Notes |
+|-----------|---------|-------|
+| **Trickster** | Morphex, Skivari, Vexith, Chimeran, *Delphari*, *Felixar*, *Mistral*, *Pyrovapor*, *Magnetari*, *Pulsar*, *Vixari* | Deception, chaos, misdirection; unpredictable |
+| **Spy** | Nethyrim, Shriven, Veloxi, Phantari, *Aerith*, *Cervathi* | Information gathering, mystery; observers |
+
+### Transcendent Archetypes
+
+| Archetype | Species | Notes |
+|-----------|---------|-------|
+| **Mystic** | Axiom, Serenith, Nullborn, Luminara, Tharaxim, *Lithori*, *Stalactari*, *Mycelith*, *Staticari*, *Geothrix* | Transcendent, unknowable; cosmic perspective |
+| **Outcast** | Humans, Vethani, Rethaki, Driftari, Exili, Remnari, *Pumicari*, *Radiax* | Outside the system, underdogs; rejected or self-exiled |
+
+### Archetype Summary
+
+| Archetype | Count | Tier Distribution |
+|-----------|-------|-------------------|
+| Warrior | 11 | 8 Recurring, 3 Background |
+| Predator | 6 | 1 Founder, 5 Background |
+| Healer | 10 | 8 Recurring, 2 Background |
+| Diplomat | 12 | 5 Recurring, 7 Background |
+| Scholar | 6 | 1 Major, 5 Background |
+| Merchant | 7 | 2 Major/Founder, 5 Background |
+| Artisan | 7 | 4 Recurring, 3 Background |
+| Trickster | 11 | 4 Recurring, 7 Background |
+| Spy | 6 | 4 Recurring, 2 Background |
+| Mystic | 10 | 5 Founder/Recurring, 5 Background |
+| Outcast | 8 | 6 Recurring, 2 Background |
+| Tyrant | 2 | 2 Founder |
+| Dominator | 1 | 1 Recurring |
+
+*Note: Species may embody multiple archetypes. Primary archetype listed. Harken appears in both Warrior and Predator.*
 
 ---
 
