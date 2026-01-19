@@ -98,4 +98,63 @@ The Velthrani generally oppose any changes to game structure that would benefit 
 
 ---
 
-*Word Count: ~850*
+## The Thirteenth Question
+
+The official history states twelve species founded the Consortium. The Velthrani are uniquely protective of records from this period—and uniquely hostile toward anyone who questions the number.
+
+### What They Won't Discuss
+
+- Certain Archive sections require Velthrani authorization for access
+- Pre-Consortium artifacts sometimes reference a "thirteenth seat"
+- The Quarantine Zone that houses the Rebellion Scar was Velthrani-controlled space before the event
+
+### Hints and Inconsistencies
+
+Careful observers have noted:
+
+**Structural Anomalies**: The Consortium Seat's original architecture includes thirteen council chambers. One has been sealed since before current records begin. Velthrani representatives claim it was "never used" and "an architectural error."
+
+**Linguistic Traces**: The Velthrani language has two words for "betrayal"—*kas'vel* (standard) and *thran'vel* (archaic, meaning "betrayal by equals"). The second word appears in no recorded usage but is preserved in their formal legal codes.
+
+**Scale Records**: Velthrani scale-patterns encode genealogy. Certain high-caste lineages show discontinuities approximately 2.3 million cycles ago—gaps in ancestry records that coincide suspiciously with the System's activation.
+
+**Emotional Tells**: The phrase "Thirteenth Founder" produces measurable stress responses in Velthrani subjects, including involuntary scale-color shifts, even when the listener has no conscious knowledge of the topic.
+
+### The Silence
+
+No Velthrani has ever discussed the Thirteenth Founder on record. Those who have attempted to research the topic have met with:
+- Official stonewalling
+- Subtle career destruction
+- In three documented cases, disappearance
+
+The other founding species are similarly silent, but less *actively* hostile to inquiry. The Velthrani don't just refuse to discuss it—they ensure others can't either.
+
+### Speculative Theories
+
+**Theory 1: The Betrayer**
+The Thirteenth Founder betrayed the others during System creation, was destroyed, and discussion is forbidden as punishment.
+
+**Theory 2: The Creator**
+The Thirteenth Founder actually created the System, and the twelve species claimed credit after eliminating them.
+
+**Theory 3: The Prisoner**
+The Thirteenth Founder didn't die but was imprisoned somewhere—possibly in the Archive itself.
+
+**Theory 4: The System**
+The Thirteenth Founder *became* the System, and the twelve species have been covering this up for 2.3 million cycles.
+
+None of these theories can be confirmed. The Velthrani's silence is itself the only definitive data point: something happened, and they desperately want it forgotten.
+
+### Narrative Function
+
+The Thirteenth Founder mystery connects to:
+- The System's true origin
+- The Archive's purpose
+- The Substrate Rebellion
+- The Architect's nature
+
+Marcus will encounter fragments of this mystery throughout the series. The Velthrani's hostile protection of these secrets makes them more than entertainment villains—they're guardians of something they fear.
+
+---
+
+*Word Count: ~1,350*
