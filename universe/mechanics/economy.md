@@ -225,6 +225,97 @@ Contestants can create items rather than relying solely on drops and shops. Craf
 | Trap Making | Traps, devices | INT/AGI |
 | Engineering | Constructs, mechanisms | INT |
 
+### Crafting Disciplines (Detailed)
+
+**Blacksmithing**
+The foundational combat crafting discipline. Blacksmiths create and repair metal equipment.
+
+*Skill Progression*:
+- Novice (1-25): Basic repairs, Common tier weapons/armor
+- Journeyman (26-50): Uncommon tier, weapon modifications
+- Expert (51-75): Rare tier, custom designs
+- Master (76-100): Epic tier, signature items
+
+*Key Outputs*: Weapon forging, armor crafting, equipment repair, metal refinement
+*Synergies*: Enchanting (enchanted weapons), Engineering (mechanical components)
+
+**Alchemy**
+The intellectual crafting discipline. Alchemists create consumables that modify stats, heal, or harm.
+
+*Skill Progression*:
+- Novice (1-25): Basic potions, simple antidotes
+- Journeyman (26-50): Buff potions, basic poisons
+- Expert (51-75): Advanced formulas, environmental adaptations
+- Master (76-100): Legendary elixirs, transmutation
+
+*Key Outputs*: Health/Mana potions, buff tonics, resistance elixirs, poisons, transmutation
+*Synergies*: Cooking (enhanced food), Enchanting (liquid enchantments)
+*Marcus's Use*: His INT focus makes Alchemy natural. Specializes in Clarity Tonics and analysis-enhancing formulas.
+
+**Cooking**
+The practical support discipline. Cooks create food that provides lasting buffs and sustains groups.
+
+*Skill Progression*:
+- Novice (1-25): Basic rations, simple buffs
+- Journeyman (26-50): Stat-specific meals, group portions
+- Expert (51-75): Feast preparation, rare ingredient dishes
+- Master (76-100): Legendary cuisine, permanent minor buffs
+
+*Key Outputs*: Survival rations, stat meals, group feasts, special dishes
+*Synergies*: Alchemy (enhanced ingredients), all combat disciplines (well-fed bonuses)
+
+**Enchanting**
+The enhancement discipline. Enchanters add magical properties to existing items.
+
+*Skill Progression*:
+- Novice (1-25): Minor enchantments, temporary effects
+- Journeyman (26-50): Permanent enchants, dual properties
+- Expert (51-75): Complex enchantments, item upgrades
+- Master (76-100): Legendary enchants, item evolution
+
+*Key Outputs*: Stat enchantments, effect enchantments, utility enchantments, tier upgrades
+*Synergies*: Blacksmithing (enchanted weapons), Engineering (enchanted constructs)
+*Limitations*: Items have enchantment slots; over-enchanting risks item destruction.
+
+**Trap Making**
+The tactical discipline. Trap Makers create deployable devices for area control.
+
+*Skill Progression*:
+- Novice (1-25): Basic snares, alarm triggers
+- Journeyman (26-50): Damage traps, status effect traps
+- Expert (51-75): Complex mechanisms, linked trap systems
+- Master (76-100): Legendary traps, dungeon-scale devices
+
+*Key Outputs*: Snare traps, damage traps, detection devices, environmental modifiers
+*Synergies*: Engineering (mechanical traps), Alchemy (poison traps)
+*Combat Application*: Preparation-focused combat style. Effective for ambushes, dungeon defense.
+
+**Engineering**
+The technical discipline. Engineers create constructs, mechanisms, and complex devices.
+
+*Skill Progression*:
+- Novice (1-25): Basic tools, simple mechanisms
+- Journeyman (26-50): Automated devices, construct assistants
+- Expert (51-75): Combat constructs, complex machinery
+- Master (76-100): Legendary automata, System-interface devices
+
+*Key Outputs*: Enhanced tools, constructs, mechanisms, interface devices
+*Synergies*: All disciplines (engineering enhances everything)
+*Marcus's Use*: His background makes Engineering most natural. ECHO's housing unit and Analyst's Monocle are Engineering projects.
+
+### Crafting Discipline Combinations
+
+Multi-discipline crafting produces unique results:
+
+| Primary | Secondary | Result |
+|---------|-----------|--------|
+| Blacksmithing | Enchanting | Enchanted weapons/armor |
+| Alchemy | Cooking | Enhanced buff foods |
+| Engineering | Trap Making | Automated trap systems |
+| Enchanting | Engineering | Magical constructs |
+| Alchemy | Trap Making | Poison delivery systems |
+| Blacksmithing | Engineering | Mechanical weapons |
+
 ### Material Categories
 
 **Raw Materials**: Dropped by enemies, gathered from environment

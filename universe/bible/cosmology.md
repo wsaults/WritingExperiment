@@ -6,6 +6,19 @@ The universe humans perceive represents approximately 0.003% of true existence. 
 
 Galactic civilization spans approximately 847 trillion sapient beings across 12.6 million registered species, organized into competing commercial federations, philosophical collectives, and entertainment conglomerates. The dominant political structure is the **Consortium of Emergent Entertainment**, which manages the games that have shaped galactic culture for the past 2.3 million standard cycles.
 
+### Geographic Organization
+
+This civilization organizes into distinct regions with different political and entertainment characteristics:
+
+- **The Core Worlds**: Founder species territory, Consortium seat, highest entertainment prestige
+- **The Syndicate Reaches**: Frontier space, Horizon Syndicate influence, experimental content
+- **The Refuge Worlds**: Former contestant species, Liberation Collective base, minimal game presence
+- **The Quarantine Zones**: Forbidden territory, Substrate Rebellion aftermath, reality instabilities
+
+Earth exists in contested space between Syndicate Reaches and uncharted territory, explaining why multiple factions compete for human entertainment rights.
+
+*For detailed regional information, see [Galactic Regions](geography/galactic-regions.md).*
+
 ## The Entertainment Economy
 
 Entertainment isn't merely recreation in galactic society—it's the primary economic driver, social lubricant, and political currency. Species with lifespans measured in millennia face an existential problem: boredom becomes a civilization-killing force. Wars fought over resources ended eons ago; wars fought over *interesting experiences* never stopped.
