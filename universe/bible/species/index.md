@@ -12,6 +12,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Chimeran | Recurring | Hostile | [recurring/chimeran.md](recurring/chimeran.md) |
 | Corvani | Recurring | Neutral | [recurring/corvani.md](recurring/corvani.md) |
 | Dyathi | Founder | Sympathetic | [founders/dyathi.md](founders/dyathi.md) |
+| Foundari | Recurring | Neutral | [recurring/foundari.md](recurring/foundari.md) |
 | Harken | Founder | Hostile | [founders/harken.md](founders/harken.md) |
 | Humans | Major | Contestant | [major/humans.md](major/humans.md) |
 | Kaldrix | Recurring | Neutral | [recurring/kaldrix.md](recurring/kaldrix.md) |
@@ -30,6 +31,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Soleth | Founder | Sympathetic | [founders/soleth.md](founders/soleth.md) |
 | Sorvani | Recurring | Sympathetic | [recurring/sorvani.md](recurring/sorvani.md) |
 | Synthara | Recurring | Neutral | [recurring/synthara.md](recurring/synthara.md) |
+| Tesseri | Recurring | Sympathetic | [recurring/tesseri.md](recurring/tesseri.md) |
 | Thessari | Recurring | Sympathetic | [recurring/thessari.md](recurring/thessari.md) |
 | Thal'vex | Founder | Hostile | [founders/thalvex.md](founders/thalvex.md) |
 | Tharaxim | Founder | Neutral | [founders/tharaxim.md](founders/tharaxim.md) |
@@ -38,6 +40,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Vaelthrim | Founder | Neutral | [founders/vaelthrim.md](founders/vaelthrim.md) |
 | Velathi | Recurring | Sympathetic | [recurring/velathi.md](recurring/velathi.md) |
 | Veloxi | Recurring | Wildcard | [recurring/veloxi.md](recurring/veloxi.md) |
+| Verdex | Recurring | Sympathetic | [recurring/verdex.md](recurring/verdex.md) |
 | Vexith | Recurring | Neutral | [recurring/vexith.md](recurring/vexith.md) |
 | Velith | Recurring | Sympathetic | [recurring/velith.md](recurring/velith.md) |
 | Velthrani | Founder | Hostile | [founders/velthrani.md](founders/velthrani.md) |
@@ -86,6 +89,9 @@ The original architects of the System and Consortium.
 | Velith | Recurring | Full Member (Medical Guild) |
 | Synthara | Recurring | Full Member (Technical Services) |
 | Orvani | Recurring | Restricted (Biological Hazard) |
+| Tesseri | Recurring | Full Member (Artisan Guild) |
+| Foundari | Recurring | Full Member (Industrial Consortium) |
+| Verdex | Recurring | Full Member (Bio-Architecture Guild) |
 
 *See background/ directory for Tier 3 species.*
 
@@ -157,6 +163,14 @@ Contestant-rights advocacy faction.
 | Velith | Medical Guild | Botanical healing specialists |
 | Synthara | Technical Services | Crystalline precision medicine |
 
+### Artisan/Industrial Blocs
+
+| Species | Bloc | Notes |
+|---------|------|-------|
+| Tesseri | Artisan Guild | Pattern-weaving crafters |
+| Foundari | Industrial Consortium | Living furnace smiths |
+| Verdex | Bio-Architecture Guild | Living structure cultivators |
+
 ---
 
 ## 4. Human Attitude
@@ -190,6 +204,7 @@ Species without strong position on humans.
 | Mendari | Recurring | Clinical; excellent but impersonal care |
 | Vexith | Recurring | Analytical; humans disrupt probability calculations |
 | Shriven | Recurring | Observational; watches and sells intelligence |
+| Foundari | Recurring | Professional; respects craftsmanship when demonstrated |
 
 ### Sympathetic
 
@@ -204,6 +219,8 @@ Species actively supporting or aiding humans.
 | Velith | Recurring | Compassionate; offers healing when possible |
 | Velathi | Recurring | Cannot refuse care; empathy-driven |
 | Sorvani | Recurring | Former contestants; survivor solidarity |
+| Tesseri | Recurring | Respectful; admires human creativity despite limitations |
+| Verdex | Recurring | Protective; patient aid to short-lived species |
 
 ### Fascinated
 
@@ -250,7 +267,7 @@ Archetypes guide species role in storytelling.
 | **Trickster** | Morphex, Skivari, Vexith, Chimeran | Deception, chaos, misdirection |
 | **Diplomat** | Vor'enthal, Vaelthrim, Corvani, Thessari, Kaldrix | Mediation, negotiation |
 | **Spy** | Nethyrim, Shriven, Veloxi, Phantari | Information gathering, mystery |
-| **Artisan** | Dyathi | Creation, bonded crafting |
+| **Artisan** | Dyathi, Tesseri, Foundari, Verdex | Creation, crafting, making |
 | **Mystic** | Axiom | Transcendent, unknowable |
 | **Outcast** | Humans | Outside the system, underdogs |
 | **Tyrant** | Velthrani, Thal'vex | Authority, domination |
@@ -287,6 +304,9 @@ Standard organic biology. See: [background/carbon-based.md](background/carbon-ba
 | Shriven | Recurring | Shadow-adapted humanoid |
 | Veloxi | Recurring | Insectoid (information) |
 | Phantari | Recurring | Humanoid (phase-shifter) |
+| Tesseri | Recurring | Humanoid (multi-armed artisan) |
+| Foundari | Recurring | Stone-plated (internal furnace) |
+| Verdex | Recurring | Plant-like humanoid |
 
 ### Silicon-Based
 
@@ -364,5 +384,5 @@ Non-standard existence. See: [background/energy-based.md](background/energy-base
 ---
 
 *Last Updated: 2026-01-19*
-*Total Species Catalogued: 36 (12 Founders, 5 Major, 19 Recurring)*
+*Total Species Catalogued: 39 (12 Founders, 5 Major, 22 Recurring)*
 *Background species pending population*
