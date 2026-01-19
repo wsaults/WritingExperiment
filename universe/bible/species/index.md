@@ -176,6 +176,7 @@ Species without strong position on humans.
 | Nethyrim | Founder | Unpredictable; inconsistent interest |
 | Skalven | Recurring | Professional; potential clients or competitors |
 | Synthara | Recurring | Clinical; statistical interest only |
+| Mendari | Recurring | Clinical; excellent but impersonal care |
 
 ### Sympathetic
 
@@ -188,6 +189,8 @@ Species actively supporting or aiding humans.
 | Vor'enthal | Founder | Diplomatic cover; facilitates allies |
 | Dyathi | Founder | Emotional support; memory-sharing offers |
 | Velith | Recurring | Compassionate; offers healing when possible |
+| Velathi | Recurring | Cannot refuse care; empathy-driven |
+| Sorvani | Recurring | Former contestants; survivor solidarity |
 
 ### Fascinated
 
@@ -228,7 +231,7 @@ Archetypes guide species role in storytelling.
 | **Warrior** | Harken, Vorrax, Kraveth, Tormak, Skalven, Xelthari | Combat-focused cultures |
 | **Merchant** | Thex Collective, Keth'oran | Economic/trading focused |
 | **Scholar** | Quorathi | Research, knowledge accumulation |
-| **Healer** | Kindari, Soleth, Velith, Synthara, Orvani | Support, empathy-driven |
+| **Healer** | Kindari, Soleth, Velith, Synthara, Orvani, Velathi, Mendari, Sorvani | Support, empathy-driven |
 | **Trickster** | Morphex | Shapeshifting, deception, chaos |
 | **Diplomat** | Vor'enthal, Vaelthrim | Mediation, relationship management |
 | **Spy** | Nethyrim | Information gathering, mystery |
@@ -261,6 +264,9 @@ Standard organic biology. See: [background/carbon-based.md](background/carbon-ba
 | Tormak | Recurring | Insectoid (mantis-like) |
 | Skalven | Recurring | Mammalian (canine/ursine) |
 | Velith | Recurring | Plant-animal hybrid |
+| Velathi | Recurring | Humanoid (bioluminescent) |
+| Mendari | Recurring | Arthropod (medical) |
+| Sorvani | Recurring | Aquatic humanoid |
 
 ### Silicon-Based
 
