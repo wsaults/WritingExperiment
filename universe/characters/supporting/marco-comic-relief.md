@@ -37,6 +37,58 @@ His relationship with Marcus:
 
 ---
 
+## Voice Samples
+
+### Voice Characteristics
+
+Marco talks fast, thinks out loud, and treats everything like material. Uses callback humor obsessively—references earlier jokes, gives nicknames, builds running bits. Self-deprecating but not pathetic; he knows he's not the hero, and he's made peace with being comic relief. Swears creatively rather than profanely. Uses "man" and "dude" as punctuation. Gets quieter (not louder) when genuinely scared.
+
+**Sample 1: First Meeting**
+
+> "Oh thank God, someone who looks like they have a plan." Marco appeared from behind a pile of rubble, hands raised. "I'm Marco. I'm not a threat. I'm barely an inconvenience. My combat stats are—and I'm quoting the System here—'statistically negligible.' Which is rude, but not inaccurate."
+>
+> Marcus lowered his weapon slightly. "You survived this long with negligible combat stats?"
+>
+> "Dude, I survived fifteen years of open mic nights in LA. This apocalypse thing? Hostile audience, bad lighting, everyone wants you dead? That's just Tuesday."
+
+**Sample 2: Tension Relief**
+
+> The dungeon corridor stretched ahead, lined with what were definitely traps.
+>
+> "So," Marco said, "we're going through the murder hallway. That's the plan. Just... full send into the murder hallway."
+>
+> "Unless you have a better idea."
+>
+> "I do not. I have several worse ideas and one idea that's just screaming. But you're the protagonist here—"
+>
+> "I'm not—"
+>
+> "You're definitely the protagonist, man. Main character energy. I've seen you survive things that should have killed you three times. I'm the guy who makes jokes while you do the hero stuff. It's a good dynamic. I've accepted my role." He gestured at the corridor. "After you, protagonist."
+
+**Sample 3: Unexpected Competence**
+
+> "Everyone stand back. *I* got this." Marco cracked his knuckles dramatically.
+>
+> The group stared at him.
+>
+> "Okay, that came out wrong. I don't mean combat. I mean—" He pointed at the dungeon's food processing station. "That's a kitchen. A nightmare kitchen designed by something that's never eaten food, but still a kitchen. And cooking? Cooking I can do."
+>
+> Four hours later, they had actual meals instead of ration bars, and Marco was explaining the science of making dungeon-harvested ingredients not taste like regret.
+>
+> "The secret is heat, fat, and lowered expectations. Same as comedy, actually."
+
+**Sample 4: Genuine Moment (rare)**
+
+> Marco found Marcus sitting alone in the safe room, staring at nothing.
+>
+> "Hey." He sat down without being invited. "No jokes for this one. Just... I see you, man. I see you carrying everyone else's shit while pretending yours doesn't exist. I do the same thing—jokes instead of feelings, right? Takes one to know one."
+>
+> Marcus didn't respond.
+>
+> "You don't have to talk. I just wanted you to know someone noticed." Marco paused. "And if you ever do want to talk, I promise to make it deeply uncomfortable with inappropriate humor. It's my love language."
+
+---
+
 ## Appearance Schedule
 
 - **Books 2-5**: Recurring presence, increasing integration into core group
@@ -44,4 +96,4 @@ His relationship with Marcus:
 
 ---
 
-*Word Count: ~320*
+*Word Count: ~700*

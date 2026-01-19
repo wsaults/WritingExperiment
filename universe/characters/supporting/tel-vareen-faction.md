@@ -39,6 +39,46 @@ What distinguishes Tel'vareen from other Kindari is her ability to compartmental
 
 ---
 
+## Voice Samples
+
+### Voice Characteristics
+
+Tel'vareen speaks with diplomatic precision—every word chosen, implications calculated. Unusually honest for a political operative; she states her dual motives directly rather than pretending to pure altruism. Uses conditional language ("if," "should," "in the event that") to maintain plausible deniability. Her Kindari nature shows in occasional references to emotional resonance she's suppressing. Formal but warm underneath.
+
+**Sample 1: First Meeting**
+
+> "Marcus Chen. I am Tel'vareen of the Voice Choir." Her wing patterns shifted in what the translation implant rendered as [GREETING (FORMAL)/ASSESSMENT (ACTIVE)]. "I have followed your performance with professional interest. The Collective finds your survival... politically useful."
+>
+> "That's refreshingly honest."
+>
+> "The alternative is pretending I contacted you purely from compassion. You would eventually realize I had ulterior motives, and trust would be damaged." She tilted her head. "I do have compassion for your situation. I also have political objectives your success would advance. Both truths can coexist."
+
+**Sample 2: Political Briefing**
+
+> "The Consortium operates on consensus, which sounds democratic until you understand that consensus is purchased rather than built. Director Vor'kethani currently controls sufficient voting blocks to influence but not dictate policy regarding human contestants."
+>
+> "So she can make my life difficult but not end it outright."
+>
+> "Precisely. However..." Tel'vareen's bioluminescence flickered—the Kindari equivalent of hesitation. "There are channels outside Consortium structure. Less visible. Less constrained by political consequences. If Vor'kethani decides you are worth the risk of using them, your protection becomes significantly more complicated."
+>
+> "You're telling me to be less annoying to the giant snake lady."
+>
+> "I am providing data. Your conclusions are your own."
+
+**Sample 3: Honest About Dual Motives**
+
+> "I should be clear about something." Tel'vareen's voice carried the careful weight of prepared honesty. "My people feel what others feel. When you suffer, I experience an echo of that suffering. When you triumph, I share that triumph. It is our nature."
+>
+> "That sounds difficult."
+>
+> "It is why most Kindari cannot do political work. The constant exposure to others' pain..." She paused. "I have learned to... compartmentalize. To care about you as an individual while also viewing you as an asset to be deployed. This duality is not comfortable. I mention it because you deserve to know who you are working with."
+>
+> Marcus considered this. "I appreciate that you told me."
+>
+> "Appreciation is acceptable. Trust would be premature." Her wing patterns shifted again. "But I am working toward earning it."
+
+---
+
 ## Appearance Schedule
 
 - **Book 2**: Introduction
@@ -46,4 +86,4 @@ What distinguishes Tel'vareen from other Kindari is her ability to compartmental
 
 ---
 
-*Word Count: ~320*
+*Word Count: ~650*

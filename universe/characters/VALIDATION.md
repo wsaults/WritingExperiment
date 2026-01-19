@@ -134,6 +134,8 @@
 
 ### Differentiation Test ✅
 
+**Major Characters**
+
 | Character | Verbal Pattern | Dialogue Identifier | Reaction Style |
 |-----------|----------------|---------------------|----------------|
 | Marcus | Technical precision + dark humor | Self-deprecating sarcasm | Analyze first |
@@ -142,6 +144,16 @@
 | Kin'morath | Cold professionalism | References to prices | Calculate value |
 | Victor | Calm menace | Never threatens directly | Assess threat |
 | Vor'kethani | Slow contempt | Never uses names | Plan patiently |
+
+**Supporting Cast** (voice samples added 2026-01-19)
+
+| Character | Verbal Pattern | Dialogue Identifier | Reaction Style |
+|-----------|----------------|---------------------|----------------|
+| Jin Park | Quiet wisdom, food metaphors | Questions instead of statements | Observe, then advise |
+| Rath'veloci | Clinical enthusiasm, statistics | Third-person references | Analyze as data |
+| Marco Delgado | Fast, self-aware humor | "Man"/"dude" punctuation | Joke to cope |
+| Tel'vareen | Diplomatic precision | Conditional language | Calculate implications |
+| Dr. Sarah Chen | ER efficiency, direct | Medical terminology | Triage priorities |
 
 ---
 
