@@ -163,6 +163,10 @@ Contestant-rights advocacy faction.
 | Vethani | Faction membership prohibited (exile) |
 | Rethaki | Cannot join factions (legally extinct) |
 | Driftari | Refuses all affiliation (nomadic independence) |
+| Exili | Withdrawal means no faction participation |
+| Pyrovex | Too individualistic for permanent alliance |
+| Remnari | Officially extinct; cannot join factions |
+| Vakari | At war with Consortium; expelled |
 
 ### Commercial/Academic Blocs
 
@@ -255,6 +259,9 @@ Species actively supporting or aiding humans.
 | Luminara | Recurring | Benevolent; spiritual guidance for fragile melodies |
 | Vethani | Recurring | Cautionary; fellow outcasts, warns against rebellion |
 | Rethaki | Recurring | Protective; sees own past in humanity's present |
+| Remnari | Recurring | Protective; fellow victims of the games |
+| Vakari | Recurring | Allied; offers resistance partnership |
+| Exili | Recurring | Conflicted; offers sanctuary but won't intervene |
 
 ### Fascinated
 
