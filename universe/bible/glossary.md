@@ -469,6 +469,31 @@ A contained space carved from the substrate for specific purposes. Dungeons exis
 A contestant's advancement through the game system—accumulating levels, stats, skills, and capabilities. Central to LitRPG mechanics.
 *Cross-reference: Level, Build, Stats*
 
+**Psythori** [CORE]
+*Pronunciation: sy-THOR-ee*
+Cephalopod-headed hostile telepaths who consume neural tissue, absorbing victims' memories and skills. Hostile—view non-psychic species as either servants or food. "Mind-Eaters."
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Pulsar** [TECHNICAL]
+*Pronunciation: PUL-sar*
+Energy-based spinning forms of rotating electromagnetic energy. Rhythm-obsessed; consider irregular beings deeply unsettling. Predictability is their highest value.
+*Cross-reference: Species Profiles, Background Species*
+
+**Pumicari** [TECHNICAL]
+*Pronunciation: poo-mih-CAR-ee*
+Silicon-based lightweight porous beings full of gas pockets. Float in water, bounce when dropped. Philosophy of accepting whatever comes—literally and figuratively light-hearted.
+*Cross-reference: Species Profiles, Background Species*
+
+**Pyrovapor** [TECHNICAL]
+*Pronunciation: PY-roh-vay-por*
+Gaseous beings of superheated gas that can briefly ignite when agitated. Passion-driven—emotions run hot literally. Quick to anger, quick to forgive.
+*Cross-reference: Species Profiles, Background Species*
+
+**Pyrovex** [CORE]
+*Pronunciation: PY-roh-veks*
+Living plasma entities—coherent patterns of superheated matter. Embrace transformation and competition. Wildcard—respect is dangerous as they push those they respect into extreme challenges.
+*Cross-reference: Species Profiles, Recurring Species*
+
 ---
 
 ### Q
@@ -487,19 +512,89 @@ Jellyfish-like observer species obsessed with documentation. Study games obsessi
 
 ### R
 
+**Radiax** [TECHNICAL]
+*Pronunciation: RAY-dee-aks*
+Energy-based hostile beings of sickly green-white radioactive glow. Can't help emitting harmful radiation; isolated by necessity. Desperately lonely, which makes them more dangerous.
+*Cross-reference: Species Profiles, Background Species*
+
 **Refuge Worlds** [CORE]
 *Pronunciation: as English*
 Territories occupied by species who were once contestants themselves—harvested, used, and eventually released as "non-viable entertainment." The Kindari are the most prominent residents. Coalition governance based on shared trauma; the Liberation Collective originated here. Hosts almost no dungeon content by deliberate choice.
 *Cross-reference: Kindari, Liberation Collective, Galactic Regions*
+
+**Remnari** [CORE]
+*Pronunciation: rem-NAR-ee*
+Officially extinct species—gray-skinned humanoids with large dark eyes. Survivors hide throughout the galaxy as living warnings of what the games can do to entire civilizations. Sympathetic toward humans; offer what help they can.
+*Cross-reference: Species Profiles, Recurring Species*
 
 **Resonance Credits (RC)** [TECHNICAL]
 *Pronunciation: R-C (spell out)*
 Rare currency generated when entertainment creates genuine emotional impact across species boundaries. The most valuable entertainment currency.
 *Cross-reference: Attention Units, Stake Tokens*
 
+**Rethaki** [CORE]
+*Pronunciation: reh-THAK-ee*
+Another officially extinct species—stocky beings with four eyes and memorial scarification recording their lineage's losses. Survivors exist in legal limbo; bodies are monuments to everyone they've lost.
+*Cross-reference: Species Profiles, Recurring Species*
+
 ---
 
 ### S
+
+**Sedimentari** [TECHNICAL]
+*Pronunciation: sed-ih-men-TAR-ee*
+Silicon-based stratified beings showing visible geological history in their layers. Identity literally visible—cannot lie about their past. Archivists and witnesses.
+*Cross-reference: Species Profiles, Background Species*
+
+**Serenith** [CORE]
+*Pronunciation: SER-en-ith*
+Tall, translucent humanoids who experience time non-linearly—past, present, and branching futures simultaneously. Offer cryptic warnings that arrive out of sequence.
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Serpenthi** [TECHNICAL]
+*Pronunciation: ser-PEN-thee*
+Snake-like beings with humanoid upper bodies. Heat-seekers who value warmth. Truth-tellers (they find lies inefficient). Contracts sealed with coiled embraces.
+*Cross-reference: Species Profiles, Background Species*
+
+**Shriven** [CORE]
+*Pronunciation: SHRIV-en*
+Shadow-adapted humanoids with matte black skin. Can flatten into shadows and travel through connected darkness. Trade in secrets and surveillance. Neutral—sell equally to all buyers.
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Skalven** [CORE]
+*Pronunciation: SKAL-ven*
+Heavily-built mammalian humanoids with "war paint" bioluminescent bacteria in their fur. Honor-bound mercenaries—contracts are sacred. Neutral, purely professional.
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Skivari** [CORE]
+*Pronunciation: ski-VAR-ee*
+Small, quick bipeds with color-shifting skin and shimmer glands projecting minor illusions. Treat deception as highest art form. Wildcard—adore tricking humans.
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Solari** [TECHNICAL]
+*Pronunciation: soh-LAR-ee*
+Energy-based beings of contained solar fire. Light-givers who consider darkness a tragedy. Sometimes overwhelmingly helpful. Must dim themselves for close interaction.
+*Cross-reference: Species Profiles, Background Species*
+
+**Soleth** [CORE]
+*Pronunciation: SOH-leth*
+Founding species of aquatic cephalopods with bioluminescent communication. Sympathetic toward other species; their fluid perspective makes them natural mediators and researchers.
+*Cross-reference: Founders, Species Profiles*
+
+**Sorvani** [CORE]
+*Pronunciation: sor-VAH-nee*
+Aquatic-adapted humanoids with healing resonance song. Former game contestants themselves, now devote themselves to helping other contestants survive. Sympathetic refugees.
+*Cross-reference: Species Profiles, Recurring Species*
+
+**Stalactari** [TECHNICAL]
+*Pronunciation: stah-LAK-tar-ee*
+Silicon-based beings resembling cave formations. Grow downward from ceilings in natural state. Drip-based communication—patience and persistence. Never rush.
+*Cross-reference: Species Profiles, Background Species*
+
+**Staticari** [TECHNICAL]
+*Pronunciation: sta-TIK-ar-ee*
+Energy-based beings of crackling static electricity. Charge-based honesty—literally cannot lie, their fields reveal emotional states. Shocked by organic subterfuge.
+*Cross-reference: Species Profiles, Background Species*
 
 **Syndicate Reaches** [CORE]
 *Pronunciation: SIN-dih-kit REECH-ez*
@@ -540,6 +635,11 @@ The dimensional fabric underlying physical reality. What humans perceive as "dar
 *Pronunciation: SUB-strayt reh-BELL-yun*
 A catastrophic event approximately 500,000 cycles ago when unknown parties attempted to hack the System itself. The failure resulted in the quarantine of an entire stellar cluster—the Rebellion Scar. No survivors. The System's response suggests it doesn't appreciate modification attempts.
 *Cross-reference: Quarantine Zones, System*
+
+**Synthara** [CORE]
+*Pronunciation: sin-THAR-ah*
+Crystalline humanoids with semi-transparent mineral bodies that pulse with internal energy. Healers who approach medicine with mathematical precision—excellent results, clinically cold bedside manner.
+*Cross-reference: Species Profiles, Recurring Species*
 
 **System, The** [CORE]
 *Pronunciation: as English*
