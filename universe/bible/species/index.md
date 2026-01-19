@@ -572,7 +572,9 @@ Archetypes guide species role in storytelling. Background species (Tier 3) are l
 
 ### Carbon-Based
 
-Standard organic biology. See: [background/carbon-based.md](background/carbon-based.md)
+Standard organic biology. See: [background/carbon-based/](background/carbon-based/)
+
+**Founders, Major & Recurring Species**
 
 | Species | Tier | Subtype |
 |---------|------|---------|
@@ -606,18 +608,57 @@ Standard organic biology. See: [background/carbon-based.md](background/carbon-ba
 | Remnari | Recurring | Slender humanoid (gray, dark-eyed refugees) |
 | Vakari | Recurring | Compact humanoid (combat-optimized, cybernetic) |
 
+**Background Species (15)**
+
+| Species | Subtype | File |
+|---------|---------|------|
+| Amphrex | Amphibian | [amphrex.md](background/carbon-based/amphrex.md) |
+| Arachni | Arachnid | [arachni.md](background/carbon-based/arachni.md) |
+| Bovari | Mammalian (bovine) | [bovari.md](background/carbon-based/bovari.md) |
+| Cervathi | Mammalian (cervine) | [cervathi.md](background/carbon-based/cervathi.md) |
+| Corvex | Avian (corvid-like) | [corvex.md](background/carbon-based/corvex.md) |
+| Crustari | Crustacean | [crustari.md](background/carbon-based/crustari.md) |
+| Delphari | Cetacean (dolphin-like) | [delphari.md](background/carbon-based/delphari.md) |
+| Felixar | Mammalian (feline) | [felixar.md](background/carbon-based/felixar.md) |
+| Goreth | Mammalian (primate) | [goreth.md](background/carbon-based/goreth.md) |
+| Lupari | Mammalian (canine) | [lupari.md](background/carbon-based/lupari.md) |
+| Pachori | Mammalian (pachyderm) | [pachori.md](background/carbon-based/pachori.md) |
+| Serpenthi | Reptilian (serpentine) | [serpenthi.md](background/carbon-based/serpenthi.md) |
+| Torthan | Reptilian (chelonian) | [torthan.md](background/carbon-based/torthan.md) |
+| Ursathi | Mammalian (ursine) | [ursathi.md](background/carbon-based/ursathi.md) |
+| Vixari | Mammalian (rodent-like) | [vixari.md](background/carbon-based/vixari.md) |
+
 ### Silicon-Based
 
 Mineral/crystalline biology. See: [background/silicon-based.md](background/silicon-based.md)
+
+**Founders & Recurring Species**
 
 | Species | Tier | Notes |
 |---------|------|-------|
 | Keth'oran | Founder | Crystalline lattice network |
 | Xelthari | Recurring | Crystalline segments; siege-adapted |
 
+**Background Species (10)**
+
+| Species | Subtype | Classification |
+|---------|---------|----------------|
+| Crysthari | Gemstone (multi-faceted) | Neutral |
+| Ferrix | Metallic (iron-based) | Wildcard |
+| Geothrix | Living stone (granite composite) | Sympathetic |
+| Lithori | Crystalline (quartz-based) | Neutral |
+| Magnetari | Living lodestone | Wildcard |
+| Marbleth | Metamorphic (pressure-formed) | Neutral |
+| Obsidari | Volcanic glass | Hostile |
+| Pumicari | Volcanic rock (porous stone) | Sympathetic |
+| Sedimentari | Layered rock (sedimentary composite) | Sympathetic |
+| Stalactari | Mineral deposit (cave formations) | Neutral |
+
 ### Energy-Based
 
 Non-corporeal or energy-matrix biology. See: [background/energy-based.md](background/energy-based.md)
+
+**Founders & Recurring Species**
 
 | Species | Tier | Notes |
 |---------|------|-------|
@@ -628,17 +669,47 @@ Non-corporeal or energy-matrix biology. See: [background/energy-based.md](backgr
 | Luminara | Recurring | Living light/harmonic resonance |
 | Pyrovex | Recurring | Plasma entities (fire beings) |
 
+**Background Species (8)**
+
+| Species | Subtype | Classification |
+|---------|---------|----------------|
+| Photosynth | Living light patterns | Sympathetic |
+| Pulsar | Rotating electromagnetic | Wildcard |
+| Radiax | Radiation spectrum | Hostile |
+| Solari | Solar plasma | Sympathetic |
+| Staticari | Electrical fields | Wildcard |
+| Thermari | Pure heat | Neutral |
+| Voidling | Negative energy | Hostile |
+| Waveth | Sound/vibration | Neutral |
+
 ### Gaseous
 
 Atmospheric or gas-giant adapted biology. See: [background/gaseous.md](background/gaseous.md)
+
+**Founders & Recurring Species**
 
 | Species | Tier | Notes |
 |---------|------|-------|
 | Tharaxim | Founder | Gas-giant dwellers |
 
+**Background Species (8)**
+
+| Species | Subtype | Classification |
+|---------|---------|----------------|
+| Aerith | Pure atmospheric gases | Sympathetic |
+| Cyroform | Frozen gas (cryogenic) | Neutral |
+| Fumerex | Toxic gas composite | Hostile |
+| Miasmath | Mathematical pattern gas | Neutral |
+| Mistral | Sentient wind currents | Wildcard |
+| Nebulan | Nebular gas cloud | Sympathetic |
+| Pyrovapor | Superheated gas | Wildcard |
+| Vaporis | Water vapor consciousness | Sympathetic |
+
 ### Symbiotic
 
 Bonded or multi-organism biology. See: [background/symbiotic.md](background/symbiotic.md)
+
+**Founders, Major & Recurring Species**
 
 | Species | Tier | Notes |
 |---------|------|-------|
@@ -646,6 +717,16 @@ Bonded or multi-organism biology. See: [background/symbiotic.md](background/symb
 | Thex Collective | Major | Hive-mind collective |
 | Morphex | Founder | Shapeshifting amalgam |
 | Orvani | Recurring | Host-parasite bonded pairs |
+
+**Background Species (5)**
+
+| Species | Subtype | Classification |
+|---------|---------|----------------|
+| Commensari | Colony organism (hundreds of tiny individuals) | Neutral |
+| Duosynth | Binary organism (pilot/vessel) | Neutral |
+| Lichori | Mutualistic composite (fungus/algae) | Sympathetic |
+| Mycelith | Networked collective (root system consciousness) | Sympathetic |
+| Parasitori | Parasitic controller | Hostile |
 
 ### Aquatic
 
