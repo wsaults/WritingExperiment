@@ -22,8 +22,10 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Morphex | Founder | Wildcard | [founders/morphex.md](founders/morphex.md) |
 | Nethyrim | Founder | Neutral | [founders/nethyrim.md](founders/nethyrim.md) |
 | Orvani | Recurring | Wildcard | [recurring/orvani.md](recurring/orvani.md) |
+| Phantari | Recurring | Hostile | [recurring/phantari.md](recurring/phantari.md) |
 | Quorathi | Major | Fascinated | [major/quorathi.md](major/quorathi.md) |
 | Skalven | Recurring | Neutral | [recurring/skalven.md](recurring/skalven.md) |
+| Shriven | Recurring | Neutral | [recurring/shriven.md](recurring/shriven.md) |
 | Skivari | Recurring | Wildcard | [recurring/skivari.md](recurring/skivari.md) |
 | Soleth | Founder | Sympathetic | [founders/soleth.md](founders/soleth.md) |
 | Sorvani | Recurring | Sympathetic | [recurring/sorvani.md](recurring/sorvani.md) |
@@ -35,6 +37,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Tormak | Recurring | Wildcard | [recurring/tormak.md](recurring/tormak.md) |
 | Vaelthrim | Founder | Neutral | [founders/vaelthrim.md](founders/vaelthrim.md) |
 | Velathi | Recurring | Sympathetic | [recurring/velathi.md](recurring/velathi.md) |
+| Veloxi | Recurring | Wildcard | [recurring/veloxi.md](recurring/veloxi.md) |
 | Vexith | Recurring | Neutral | [recurring/vexith.md](recurring/vexith.md) |
 | Velith | Recurring | Sympathetic | [recurring/velith.md](recurring/velith.md) |
 | Velthrani | Founder | Hostile | [founders/velthrani.md](founders/velthrani.md) |
@@ -171,6 +174,7 @@ Species actively opposed to human success in games.
 | Kraveth | Recurring | Sporting; entertaining prey to hunt |
 | Xelthari | Recurring | Clinical; resource extraction opportunity |
 | Chimeran | Recurring | Exploitative; humans are easy identity theft targets |
+| Phantari | Recurring | Predatory; humans are soft targets for infiltration |
 
 ### Neutral
 
@@ -185,6 +189,7 @@ Species without strong position on humans.
 | Synthara | Recurring | Clinical; statistical interest only |
 | Mendari | Recurring | Clinical; excellent but impersonal care |
 | Vexith | Recurring | Analytical; humans disrupt probability calculations |
+| Shriven | Recurring | Observational; watches and sells intelligence |
 
 ### Sympathetic
 
@@ -220,6 +225,7 @@ Species whose attitude varies unpredictably.
 | Tormak | Recurring | Combat-driven; fascinated or hostile depending on challenge |
 | Orvani | Recurring | Intimate; offers healing with implicit strings |
 | Skivari | Recurring | Mischievous; adores tricking humans for sport |
+| Veloxi | Recurring | Value-based; humans judged by information interest |
 
 ### Indifferent
 
@@ -243,7 +249,7 @@ Archetypes guide species role in storytelling.
 | **Healer** | Kindari, Soleth, Velith, Synthara, Orvani, Velathi, Mendari, Sorvani | Support, empathy-driven |
 | **Trickster** | Morphex, Skivari, Vexith, Chimeran | Deception, chaos, misdirection |
 | **Diplomat** | Vor'enthal, Vaelthrim, Corvani, Thessari, Kaldrix | Mediation, negotiation |
-| **Spy** | Nethyrim | Information gathering, mystery |
+| **Spy** | Nethyrim, Shriven, Veloxi, Phantari | Information gathering, mystery |
 | **Artisan** | Dyathi | Creation, bonded crafting |
 | **Mystic** | Axiom | Transcendent, unknowable |
 | **Outcast** | Humans | Outside the system, underdogs |
@@ -278,6 +284,9 @@ Standard organic biology. See: [background/carbon-based.md](background/carbon-ba
 | Sorvani | Recurring | Aquatic humanoid |
 | Skivari | Recurring | Small humanoid (illusionist) |
 | Chimeran | Recurring | Shapeshifter (partial) |
+| Shriven | Recurring | Shadow-adapted humanoid |
+| Veloxi | Recurring | Insectoid (information) |
+| Phantari | Recurring | Humanoid (phase-shifter) |
 
 ### Silicon-Based
 
@@ -355,5 +364,5 @@ Non-standard existence. See: [background/energy-based.md](background/energy-base
 ---
 
 *Last Updated: 2026-01-19*
-*Total Species Catalogued: 33 (12 Founders, 5 Major, 16 Recurring)*
+*Total Species Catalogued: 36 (12 Founders, 5 Major, 19 Recurring)*
 *Background species pending population*
