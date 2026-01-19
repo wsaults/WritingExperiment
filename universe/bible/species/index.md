@@ -10,9 +10,11 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 |---------|------|----------------|------|
 | Axiom | Founder | Wildcard | [founders/axiom.md](founders/axiom.md) |
 | Chimeran | Recurring | Hostile | [recurring/chimeran.md](recurring/chimeran.md) |
+| Corvani | Recurring | Neutral | [recurring/corvani.md](recurring/corvani.md) |
 | Dyathi | Founder | Sympathetic | [founders/dyathi.md](founders/dyathi.md) |
 | Harken | Founder | Hostile | [founders/harken.md](founders/harken.md) |
 | Humans | Major | Contestant | [major/humans.md](major/humans.md) |
+| Kaldrix | Recurring | Neutral | [recurring/kaldrix.md](recurring/kaldrix.md) |
 | Keth'oran | Founder | Hostile | [founders/kethoran.md](founders/kethoran.md) |
 | Kindari | Major | Sympathetic | [major/kindari.md](major/kindari.md) |
 | Kraveth | Recurring | Hostile | [recurring/kraveth.md](recurring/kraveth.md) |
@@ -26,6 +28,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Soleth | Founder | Sympathetic | [founders/soleth.md](founders/soleth.md) |
 | Sorvani | Recurring | Sympathetic | [recurring/sorvani.md](recurring/sorvani.md) |
 | Synthara | Recurring | Neutral | [recurring/synthara.md](recurring/synthara.md) |
+| Thessari | Recurring | Sympathetic | [recurring/thessari.md](recurring/thessari.md) |
 | Thal'vex | Founder | Hostile | [founders/thalvex.md](founders/thalvex.md) |
 | Tharaxim | Founder | Neutral | [founders/tharaxim.md](founders/tharaxim.md) |
 | Thex Collective | Major | Indifferent | [major/thex-collective.md](major/thex-collective.md) |
@@ -239,7 +242,7 @@ Archetypes guide species role in storytelling.
 | **Scholar** | Quorathi | Research, knowledge accumulation |
 | **Healer** | Kindari, Soleth, Velith, Synthara, Orvani, Velathi, Mendari, Sorvani | Support, empathy-driven |
 | **Trickster** | Morphex, Skivari, Vexith, Chimeran | Deception, chaos, misdirection |
-| **Diplomat** | Vor'enthal, Vaelthrim | Mediation, relationship management |
+| **Diplomat** | Vor'enthal, Vaelthrim, Corvani, Thessari, Kaldrix | Mediation, negotiation |
 | **Spy** | Nethyrim | Information gathering, mystery |
 | **Artisan** | Dyathi | Creation, bonded crafting |
 | **Mystic** | Axiom | Transcendent, unknowable |
@@ -352,5 +355,5 @@ Non-standard existence. See: [background/energy-based.md](background/energy-base
 ---
 
 *Last Updated: 2026-01-19*
-*Total Species Catalogued: 30 (12 Founders, 5 Major, 13 Recurring)*
+*Total Species Catalogued: 33 (12 Founders, 5 Major, 16 Recurring)*
 *Background species pending population*
