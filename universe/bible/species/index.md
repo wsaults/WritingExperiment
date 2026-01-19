@@ -13,6 +13,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Corvani | Recurring | Neutral | [recurring/corvani.md](recurring/corvani.md) |
 | Driftari | Recurring | Neutral | [recurring/driftari.md](recurring/driftari.md) |
 | Dyathi | Founder | Sympathetic | [founders/dyathi.md](founders/dyathi.md) |
+| Exili | Recurring | Neutral | [recurring/exili.md](recurring/exili.md) |
 | Foundari | Recurring | Neutral | [recurring/foundari.md](recurring/foundari.md) |
 | Harken | Founder | Hostile | [founders/harken.md](founders/harken.md) |
 | Humans | Major | Contestant | [major/humans.md](major/humans.md) |
@@ -28,7 +29,9 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Orvani | Recurring | Wildcard | [recurring/orvani.md](recurring/orvani.md) |
 | Phantari | Recurring | Hostile | [recurring/phantari.md](recurring/phantari.md) |
 | Psythori | Recurring | Hostile | [recurring/psythori.md](recurring/psythori.md) |
+| Pyrovex | Recurring | Wildcard | [recurring/pyrovex.md](recurring/pyrovex.md) |
 | Quorathi | Major | Fascinated | [major/quorathi.md](major/quorathi.md) |
+| Remnari | Recurring | Sympathetic | [recurring/remnari.md](recurring/remnari.md) |
 | Rethaki | Recurring | Sympathetic | [recurring/rethaki.md](recurring/rethaki.md) |
 | Skalven | Recurring | Neutral | [recurring/skalven.md](recurring/skalven.md) |
 | Shriven | Recurring | Neutral | [recurring/shriven.md](recurring/shriven.md) |
@@ -44,6 +47,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Thex Collective | Major | Indifferent | [major/thex-collective.md](major/thex-collective.md) |
 | Tormak | Recurring | Wildcard | [recurring/tormak.md](recurring/tormak.md) |
 | Vaelthrim | Founder | Neutral | [founders/vaelthrim.md](founders/vaelthrim.md) |
+| Vakari | Recurring | Wildcard | [recurring/vakari.md](recurring/vakari.md) |
 | Velathi | Recurring | Sympathetic | [recurring/velathi.md](recurring/velathi.md) |
 | Veloxi | Recurring | Wildcard | [recurring/veloxi.md](recurring/veloxi.md) |
 | Verdex | Recurring | Sympathetic | [recurring/verdex.md](recurring/verdex.md) |
@@ -106,6 +110,10 @@ The original architects of the System and Consortium.
 | Vethani | Recurring | Exile (Rights Revoked) |
 | Rethaki | Recurring | Extinct (Officially); Refugee (Actual) |
 | Driftari | Recurring | Unregistered (Stateless) |
+| Exili | Recurring | Withdrawn (voluntary exile) |
+| Pyrovex | Recurring | Full Member (Containment Infrastructure) |
+| Remnari | Recurring | Extinct (Official); Refugee (Actual) |
+| Vakari | Recurring | Expelled (Active Suppression Orders) |
 
 *See background/ directory for Tier 3 species.*
 
