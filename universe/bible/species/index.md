@@ -14,17 +14,21 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Humans | Major | Contestant | [major/humans.md](major/humans.md) |
 | Keth'oran | Founder | Hostile | [founders/kethoran.md](founders/kethoran.md) |
 | Kindari | Major | Sympathetic | [major/kindari.md](major/kindari.md) |
+| Kraveth | Recurring | Hostile | [recurring/kraveth.md](recurring/kraveth.md) |
 | Morphex | Founder | Wildcard | [founders/morphex.md](founders/morphex.md) |
 | Nethyrim | Founder | Neutral | [founders/nethyrim.md](founders/nethyrim.md) |
 | Quorathi | Major | Fascinated | [major/quorathi.md](major/quorathi.md) |
+| Skalven | Recurring | Neutral | [recurring/skalven.md](recurring/skalven.md) |
 | Soleth | Founder | Sympathetic | [founders/soleth.md](founders/soleth.md) |
 | Thal'vex | Founder | Hostile | [founders/thalvex.md](founders/thalvex.md) |
 | Tharaxim | Founder | Neutral | [founders/tharaxim.md](founders/tharaxim.md) |
 | Thex Collective | Major | Indifferent | [major/thex-collective.md](major/thex-collective.md) |
+| Tormak | Recurring | Wildcard | [recurring/tormak.md](recurring/tormak.md) |
 | Vaelthrim | Founder | Neutral | [founders/vaelthrim.md](founders/vaelthrim.md) |
 | Velthrani | Founder | Hostile | [founders/velthrani.md](founders/velthrani.md) |
 | Vor'enthal | Founder | Sympathetic | [founders/vorenthal.md](founders/vorenthal.md) |
 | Vorrax | Major | Wildcard | [major/vorrax.md](major/vorrax.md) |
+| Xelthari | Recurring | Hostile | [recurring/xelthari.md](recurring/xelthari.md) |
 
 *Background species (Tier 3) listed in biology-grouped files below.*
 
@@ -60,6 +64,10 @@ The original architects of the System and Consortium.
 | Quorathi | Major | Full Member (Academic Bloc) |
 | Thex Collective | Major | Full Member (Commercial Bloc) |
 | Vorrax | Major | Contested |
+| Kraveth | Recurring | Full Member (Martial Bloc) |
+| Tormak | Recurring | Provisional (Behavioral Monitoring) |
+| Skalven | Recurring | Full Member (Mercenary Registry) |
+| Xelthari | Recurring | Associate (Resource Extraction) |
 
 *See background/ directory for Tier 3 species.*
 
@@ -111,6 +119,19 @@ Contestant-rights advocacy faction.
 | Thex Collective | Commercial | Economic focus |
 | Quorathi | Academic | Research priorities |
 
+### Martial/Mercenary Blocs
+
+| Species | Bloc | Notes |
+|---------|------|-------|
+| Kraveth | Martial Bloc | Combat-focused species coalition |
+| Skalven | Mercenary Guild | Honor-bound contractor network |
+
+### Resource Extraction
+
+| Species | Bloc | Notes |
+|---------|------|-------|
+| Xelthari | Resource Consortium | Mining and processing operations |
+
 ---
 
 ## 4. Human Attitude
@@ -125,6 +146,8 @@ Species actively opposed to human success in games.
 | Harken | Founder | Predatory; sees humans as game animals |
 | Keth'oran | Founder | Exploitative; treats as betting commodities |
 | Thal'vex | Founder | Dismissive; views as primitive entertainment |
+| Kraveth | Recurring | Sporting; entertaining prey to hunt |
+| Xelthari | Recurring | Clinical; resource extraction opportunity |
 
 ### Neutral
 
@@ -135,6 +158,7 @@ Species without strong position on humans.
 | Vaelthrim | Founder | Philosophical interest; no intervention |
 | Tharaxim | Founder | Indifferent; minimal engagement |
 | Nethyrim | Founder | Unpredictable; inconsistent interest |
+| Skalven | Recurring | Professional; potential clients or competitors |
 
 ### Sympathetic
 
@@ -164,6 +188,7 @@ Species whose attitude varies unpredictably.
 | Morphex | Founder | Individual variation; no species consensus |
 | Axiom | Founder | Interest-driven; changes with data priorities |
 | Vorrax | Major | Honor-based; respect or disdain per individual |
+| Tormak | Recurring | Combat-driven; fascinated or hostile depending on challenge |
 
 ### Indifferent
 
@@ -181,7 +206,7 @@ Archetypes guide species role in storytelling.
 
 | Archetype | Species | Notes |
 |-----------|---------|-------|
-| **Warrior** | Harken, Vorrax | Combat-focused, honor/hunting cultures |
+| **Warrior** | Harken, Vorrax, Kraveth, Tormak, Skalven, Xelthari | Combat-focused cultures |
 | **Merchant** | Thex Collective, Keth'oran | Economic/trading focused |
 | **Scholar** | Quorathi | Research, knowledge accumulation |
 | **Healer** | Kindari, Soleth | Support, empathy-driven |
@@ -213,6 +238,9 @@ Standard organic biology. See: [background/carbon-based.md](background/carbon-ba
 | Vaelthrim | Founder | Composite organic |
 | Humans | Major | Mammalian |
 | Vorrax | Major | Hybrid organic |
+| Kraveth | Recurring | Reptilian gladiator |
+| Tormak | Recurring | Insectoid (mantis-like) |
+| Skalven | Recurring | Mammalian (canine/ursine) |
 
 ### Silicon-Based
 
@@ -221,6 +249,7 @@ Mineral/crystalline biology. See: [background/silicon-based.md](background/silic
 | Species | Tier | Notes |
 |---------|------|-------|
 | Keth'oran | Founder | Crystalline lattice network |
+| Xelthari | Recurring | Crystalline segments; siege-adapted |
 
 ### Energy-Based
 
@@ -286,5 +315,5 @@ Non-standard existence. See: [background/energy-based.md](background/energy-base
 ---
 
 *Last Updated: 2026-01-19*
-*Total Species Catalogued: 17 (12 Founders, 5 Major)*
+*Total Species Catalogued: 21 (12 Founders, 5 Major, 4 Recurring)*
 *Background species pending population*
