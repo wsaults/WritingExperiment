@@ -331,9 +331,11 @@ Wildcard species with unpredictable alignments; deal on case-by-case basis.
 
 ## 4. Human Attitude
 
-### Hostile
+### Hostile (15 species)
 
 Species actively opposed to human success in games.
+
+**Founder & Recurring Species**
 
 | Species | Tier | Hostility Type |
 |---------|------|----------------|
@@ -347,15 +349,30 @@ Species actively opposed to human success in games.
 | Phantari | Recurring | Predatory; humans are soft targets for infiltration |
 | Psythori | Recurring | Acquisitive; humans are high-value neural consumption targets |
 
-### Neutral
+**Background Species**
+
+| Species | Biology | Hostility Type |
+|---------|---------|----------------|
+| Arachni | Carbon | Territorial predators; view all outsiders as prey |
+| Fumerex | Gaseous | Environmental hazard; atmospheres incompatible with humans |
+| Obsidari | Silicon | Death cult philosophy; seek to shatter all "flawed" beings |
+| Parasitori | Symbiotic | Body autonomy violators; humans are ideal hosts |
+| Radiax | Energy | Contamination-spreaders; hazardous to biological life |
+| Voidling | Energy | Entropy worshippers; existence-enders who see humans as brief candles |
+
+### Neutral (31 species)
 
 Species without strong position on humans.
+
+**Founder & Recurring Species**
 
 | Species | Tier | Neutrality Type |
 |---------|------|-----------------|
 | Vaelthrim | Founder | Philosophical interest; no intervention |
 | Tharaxim | Founder | Indifferent; minimal engagement |
 | Nethyrim | Founder | Unpredictable; inconsistent interest |
+| Corvani | Recurring | Diplomatic; mediates without taking sides |
+| Kaldrix | Recurring | Professional observer; negotiates for all parties |
 | Skalven | Recurring | Professional; potential clients or competitors |
 | Synthara | Recurring | Clinical; statistical interest only |
 | Mendari | Recurring | Clinical; excellent but impersonal care |
@@ -364,10 +381,35 @@ Species without strong position on humans.
 | Foundari | Recurring | Professional; respects craftsmanship when demonstrated |
 | Serenith | Recurring | Cryptic; offers fragmented temporal guidance |
 | Driftari | Recurring | Pragmatic; trades but avoids attachment |
+| Exili | Recurring | Withdrawn; offers sanctuary but won't intervene |
 
-### Sympathetic
+**Background Species**
+
+| Species | Biology | Neutrality Type |
+|---------|---------|-----------------|
+| Amphrex | Carbon | Dual-environment adaptability; trade without preference |
+| Cervathi | Carbon | Flight-focused; territorial knowledge sellers |
+| Corvex | Carbon | Collectors; humans have interesting artifacts |
+| Crustari | Carbon | Molt-based society; salvage masters who deal with all |
+| Goreth | Carbon | Strength-hierarchy; humans too weak to matter |
+| Torthan | Carbon | Patience religion; unbreakable contracts with anyone |
+| Ursathi | Carbon | Hibernation society; patient traders, indifferent to species |
+| Cyroform | Gaseous | Preservation archivists; humans are data points |
+| Miasmath | Gaseous | Pure logic; humans are one species among many |
+| Crysthari | Silicon | Value-obsessed; humans judged by what they possess |
+| Lithori | Silicon | Resonance-based; geological patience means humans are brief |
+| Marbleth | Silicon | Pressure philosophy; artisans unconcerned with clients' origins |
+| Stalactari | Silicon | Growth-obsessed; underground dwellers rarely encounter humans |
+| Thermari | Energy | Temperature communication; humans register as thermal anomalies only |
+| Waveth | Energy | Sound-based translators; serve all equally |
+| Commensari | Symbiotic | Colony democracy; too slow to form opinions |
+| Duosynth | Symbiotic | Binary organism; partnership-focused, unconcerned with politics |
+
+### Sympathetic (28 species)
 
 Species actively supporting or aiding humans.
+
+**Founder, Major & Recurring Species**
 
 | Species | Tier | Support Type |
 |---------|------|--------------|
@@ -379,15 +421,33 @@ Species actively supporting or aiding humans.
 | Velathi | Recurring | Cannot refuse care; empathy-driven |
 | Sorvani | Recurring | Former contestants; survivor solidarity |
 | Tesseri | Recurring | Respectful; admires human creativity despite limitations |
+| Thessari | Recurring | Empathic diplomats; advocate for understanding |
 | Verdex | Recurring | Protective; patient aid to short-lived species |
 | Luminara | Recurring | Benevolent; spiritual guidance for fragile melodies |
 | Vethani | Recurring | Cautionary; fellow outcasts, warns against rebellion |
 | Rethaki | Recurring | Protective; sees own past in humanity's present |
 | Remnari | Recurring | Protective; fellow victims of the games |
-| Vakari | Recurring | Allied; offers resistance partnership |
-| Exili | Recurring | Conflicted; offers sanctuary but won't intervene |
 
-### Fascinated
+**Background Species**
+
+| Species | Biology | Support Type |
+|---------|---------|--------------|
+| Aerith | Gaseous | Observers who protect secrets; shelter providers |
+| Bovari | Carbon | Agricultural community values; recognize kinship in human farmers |
+| Delphari | Carbon | Pod-based curiosity; playfully protective of humans |
+| Geothrix | Silicon | Patient guardians; protect the short-lived instinctively |
+| Lichori | Symbiotic | Consensus mediators; advocate for human inclusion |
+| Mycelith | Symbiotic | Connected networks; patient allies who share resources |
+| Nebulan | Gaseous | Cosmic perspective; patient nurturers of young species |
+| Pachori | Carbon | Memory-keepers; empathy for human loss and grief |
+| Photosynth | Energy | Art-focused; appreciate human creativity and emotional expression |
+| Pumicari | Silicon | Drifters who accept all; offer passage to those in need |
+| Sedimentari | Silicon | History-obsessed witness-bearers; document human struggles |
+| Solari | Energy | Light-givers; generous helpers who illuminate paths |
+| Vaporis | Gaseous | Compulsive caretakers; cannot help but nurture |
+| Vixari | Carbon | Marginalized scavengers; see value in what others discard |
+
+### Fascinated (1 species)
 
 Species with intense research/study interest in humans.
 
@@ -395,9 +455,11 @@ Species with intense research/study interest in humans.
 |---------|------|------------------|
 | Quorathi | Major | Academic obsession; data collection |
 
-### Wildcard
+### Wildcard (19 species)
 
 Species whose attitude varies unpredictably.
+
+**Founder, Major & Recurring Species**
 
 | Species | Tier | Variability |
 |---------|------|-------------|
@@ -410,14 +472,35 @@ Species whose attitude varies unpredictably.
 | Veloxi | Recurring | Value-based; humans judged by information interest |
 | Nullborn | Recurring | Inexplicable; helps or hinders for unknowable reasons |
 | Pyrovex | Recurring | Interested; respects adaptability but tests harshly |
+| Vakari | Recurring | Allied but volatile; offers resistance partnership on their terms |
 
-### Indifferent
+**Background Species**
+
+| Species | Biology | Variability |
+|---------|---------|-------------|
+| Felixar | Carbon | Fiercely independent; respect must be individually earned |
+| Ferrix | Silicon | Magnetic hierarchy; attracted to strong personalities |
+| Lupari | Carbon | Pack-loyalty; outsiders must prove themselves worthy |
+| Magnetari | Silicon | Polarity-based; drawn to or repelled by individuals |
+| Mistral | Gaseous | Freedom-obsessed; help those who value liberty |
+| Pulsar | Energy | Rhythm-obsessed; respect those who keep their timing |
+| Pyrovapor | Gaseous | Passion-driven; emotional volatility means unpredictable reactions |
+| Serpenthi | Carbon | Compulsive truth-tellers; respect honesty, punish deception |
+| Staticari | Energy | Charge-based honesty; cannot deceive, judge by sincerity |
+
+### Indifferent (1 species)
 
 Species with no interest in humans specifically.
 
 | Species | Tier | Notes |
 |---------|------|-------|
 | Thex Collective | Major | Commercially neutral; trades with all |
+
+### Contestant (1 species)
+
+| Species | Tier | Notes |
+|---------|------|-------|
+| Humans | Major | Primary focus of entertainment; contestants in the games |
 
 ---
 
