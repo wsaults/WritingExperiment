@@ -11,6 +11,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Axiom | Founder | Wildcard | [founders/axiom.md](founders/axiom.md) |
 | Chimeran | Recurring | Hostile | [recurring/chimeran.md](recurring/chimeran.md) |
 | Corvani | Recurring | Neutral | [recurring/corvani.md](recurring/corvani.md) |
+| Driftari | Recurring | Neutral | [recurring/driftari.md](recurring/driftari.md) |
 | Dyathi | Founder | Sympathetic | [founders/dyathi.md](founders/dyathi.md) |
 | Foundari | Recurring | Neutral | [recurring/foundari.md](recurring/foundari.md) |
 | Harken | Founder | Hostile | [founders/harken.md](founders/harken.md) |
@@ -28,6 +29,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Phantari | Recurring | Hostile | [recurring/phantari.md](recurring/phantari.md) |
 | Psythori | Recurring | Hostile | [recurring/psythori.md](recurring/psythori.md) |
 | Quorathi | Major | Fascinated | [major/quorathi.md](major/quorathi.md) |
+| Rethaki | Recurring | Sympathetic | [recurring/rethaki.md](recurring/rethaki.md) |
 | Skalven | Recurring | Neutral | [recurring/skalven.md](recurring/skalven.md) |
 | Shriven | Recurring | Neutral | [recurring/shriven.md](recurring/shriven.md) |
 | Serenith | Recurring | Neutral | [recurring/serenith.md](recurring/serenith.md) |
@@ -45,6 +47,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Velathi | Recurring | Sympathetic | [recurring/velathi.md](recurring/velathi.md) |
 | Veloxi | Recurring | Wildcard | [recurring/veloxi.md](recurring/veloxi.md) |
 | Verdex | Recurring | Sympathetic | [recurring/verdex.md](recurring/verdex.md) |
+| Vethani | Recurring | Sympathetic | [recurring/vethani.md](recurring/vethani.md) |
 | Vexith | Recurring | Neutral | [recurring/vexith.md](recurring/vexith.md) |
 | Velith | Recurring | Sympathetic | [recurring/velith.md](recurring/velith.md) |
 | Velthrani | Founder | Hostile | [founders/velthrani.md](founders/velthrani.md) |
@@ -100,6 +103,9 @@ The original architects of the System and Consortium.
 | Nullborn | Recurring | Undefined (existence unrecognized) |
 | Luminara | Recurring | Spiritual Advisors (non-voting) |
 | Psythori | Recurring | Full Member (Containment Protocols) |
+| Vethani | Recurring | Exile (Rights Revoked) |
+| Rethaki | Recurring | Extinct (Officially); Refugee (Actual) |
+| Driftari | Recurring | Unregistered (Stateless) |
 
 *See background/ directory for Tier 3 species.*
 
@@ -146,6 +152,9 @@ Contestant-rights advocacy faction.
 | Serenith | Temporal existence prevents lasting alliances |
 | Nullborn | Exist outside conventional structures |
 | Luminara | Serve cosmic harmony, not politics |
+| Vethani | Faction membership prohibited (exile) |
+| Rethaki | Cannot join factions (legally extinct) |
+| Driftari | Refuses all affiliation (nomadic independence) |
 
 ### Commercial/Academic Blocs
 
@@ -218,6 +227,7 @@ Species without strong position on humans.
 | Shriven | Recurring | Observational; watches and sells intelligence |
 | Foundari | Recurring | Professional; respects craftsmanship when demonstrated |
 | Serenith | Recurring | Cryptic; offers fragmented temporal guidance |
+| Driftari | Recurring | Pragmatic; trades but avoids attachment |
 
 ### Sympathetic
 
@@ -235,6 +245,8 @@ Species actively supporting or aiding humans.
 | Tesseri | Recurring | Respectful; admires human creativity despite limitations |
 | Verdex | Recurring | Protective; patient aid to short-lived species |
 | Luminara | Recurring | Benevolent; spiritual guidance for fragile melodies |
+| Vethani | Recurring | Cautionary; fellow outcasts, warns against rebellion |
+| Rethaki | Recurring | Protective; sees own past in humanity's present |
 
 ### Fascinated
 
@@ -284,7 +296,7 @@ Archetypes guide species role in storytelling.
 | **Spy** | Nethyrim, Shriven, Veloxi, Phantari | Information gathering, mystery |
 | **Artisan** | Dyathi, Tesseri, Foundari, Verdex | Creation, crafting, making |
 | **Mystic** | Axiom, Serenith, Nullborn, Luminara | Transcendent, unknowable |
-| **Outcast** | Humans | Outside the system, underdogs |
+| **Outcast** | Humans, Vethani, Rethaki, Driftari | Outside the system, underdogs |
 | **Tyrant** | Velthrani, Thal'vex | Authority, domination |
 | **Predator** | Harken | Hunting, pursuit |
 | **Dominator** | Psythori | Psychic control, mental predation |
@@ -324,6 +336,9 @@ Standard organic biology. See: [background/carbon-based.md](background/carbon-ba
 | Foundari | Recurring | Stone-plated (internal furnace) |
 | Verdex | Recurring | Plant-like humanoid |
 | Psythori | Recurring | Cephalopod-humanoid (psychic) |
+| Vethani | Recurring | Humanoid (exiled, de-bioluminescent) |
+| Rethaki | Recurring | Compact humanoid (radiation-adapted) |
+| Driftari | Recurring | Slender humanoid (iridescent, flexible) |
 
 ### Silicon-Based
 
@@ -404,5 +419,5 @@ Non-standard existence. See: [background/energy-based.md](background/energy-base
 ---
 
 *Last Updated: 2026-01-19*
-*Total Species Catalogued: 43 (12 Founders, 5 Major, 26 Recurring)*
+*Total Species Catalogued: 46 (12 Founders, 5 Major, 29 Recurring)*
 *Background species pending population*

@@ -115,6 +115,60 @@ Galactic faction relationships:
 
 ---
 
+## Galactic Perception
+
+How the galaxy views humans—not as they are, but as they *appear* to ancient, long-lived species watching them struggle:
+
+### The Mayfly Appeal
+
+Humans live approximately 70-80 cycles without System enhancement—barely noticeable by Velthrani or Quorathi standards. A Velthrani elder might have watched a hundred human generations rise and fall before breakfast.
+
+This brevity makes humans *urgent*. They don't deliberate; they *act*. They don't accumulate wisdom over millennia; they make decisions with incomplete information and deal with consequences they won't live to fully understand. For species who measure choices in centuries, this recklessness is both horrifying and fascinating.
+
+Entertainment analysts call it "mayfly appeal"—the compelling nature of watching creatures who can't afford to wait.
+
+### Emotional Transparency
+
+Most galactic species have developed emotional control over evolutionary timescales. Humans have not. They broadcast their internal states through facial expressions, voice modulation, body language, and biochemical signals they can't suppress.
+
+For viewers, this is *riveting*. Humans can't hide when they're afraid, angry, hopeful, or broken. Every emotion plays across their faces in real-time. Long-lived species find this nakedness almost indecent—and impossible to look away from.
+
+The Kindari recognize this vulnerability immediately. The Velthrani consider it a weakness. Sponsors consider it excellent content.
+
+### The Narrative Instinct
+
+Before harvest, humans produced more entertainment content per capita than any pre-contact civilization on record. They told stories about themselves *constantly*—through broadcast, print, digital, oral tradition. They couldn't stop narrativizing their existence.
+
+This instinct survives into the games. Human contestants don't just fight; they frame their experiences as stories with themselves as protagonists. They name their enemies. They declare intentions. They seek dramatic moments.
+
+Some analysts believe this is why humans produce statistical outliers—they're not just trying to survive, they're trying to make their survival *mean something*. This creates unpredictable risk-taking that either kills them quickly or produces spectacular results.
+
+### Entertainment Value Assessment
+
+**Consortium Rating**: Grade A Prospects (Developing)
+
+**Appeal Factors**:
+- High emotional expressiveness (viewer engagement)
+- Short lifespans (compressed dramatic arcs)
+- Species diversity (varied contestant approaches)
+- Narrative tendency (self-generating storylines)
+- Underdog positioning (dramatic tension)
+
+**Detracting Factors**:
+- Fragile (high mortality reduces long-term investment)
+- Unpredictable (difficult to script)
+- Resentful (negative attitude toward System reduces cooperation)
+
+**Sponsor Interest**: Moderate to High. Human contestants attract sponsors who appreciate volatility and dramatic potential over consistent performance. The "betting on a longshot" narrative has proven popular with certain viewer demographics.
+
+**Viewer Demographics**: Humans particularly appeal to:
+- Kindari (empathy response)
+- Younger Quorathi (thesis subject material)
+- Consortium fringe markets (novelty appeal)
+- Horizon Syndicate viewers (gambling opportunities)
+
+---
+
 ## Narrative Function
 
 Humans serve as audience entry point into the galactic entertainment ecosystem. Their perspective—recently harvested, still processing the reality of their situation—mirrors the reader's discovery of the universe.
@@ -123,4 +177,4 @@ Their adaptability and creativity provide narrative justification for protagonis
 
 ---
 
-*Word Count: ~900*
+*Word Count: ~1,400*
