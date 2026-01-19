@@ -41,6 +41,11 @@ A contestant's combination of stats, class, skills, and equipment that defines t
 
 ### C
 
+**Core Worlds** [CORE]
+*Pronunciation: as English*
+The densest, oldest, and most developed region of galactic civilization. Contains the original territories of the twelve founder species, the Consortium's central infrastructure, and the highest concentration of entertainment production facilities. Dominated by the Old Guard faction.
+*Cross-reference: Old Guard, Consortium, Founders, Galactic Regions*
+
 **Class** [CORE]
 *Pronunciation: as English*
 A categorical designation that defines a contestant's primary capability domain. Assigned by the System based on initial performance and choices. May evolve through progression.
@@ -223,6 +228,11 @@ A contestant's advancement through the game system—accumulating levels, stats,
 
 ### Q
 
+**Quarantine Zones** [CORE]
+*Pronunciation: as English*
+Regions where something went catastrophically wrong—the Substrate Rebellion's aftermath, failed experiments, spaces where reality itself is unstable. Entry is prohibited; enforcement is lethal. No species claims them; the Consortium maintains only warning beacons and patrol vessels.
+*Cross-reference: Substrate Rebellion, Galactic Regions*
+
 **Quorathi** [CORE]
 *Pronunciation: kwor-ATH-ee*
 Jellyfish-like observer species obsessed with documentation. Study games obsessively. Fascinated by humans.
@@ -232,6 +242,11 @@ Jellyfish-like observer species obsessed with documentation. Study games obsessi
 
 ### R
 
+**Refuge Worlds** [CORE]
+*Pronunciation: as English*
+Territories occupied by species who were once contestants themselves—harvested, used, and eventually released as "non-viable entertainment." The Kindari are the most prominent residents. Coalition governance based on shared trauma; the Liberation Collective originated here. Hosts almost no dungeon content by deliberate choice.
+*Cross-reference: Kindari, Liberation Collective, Galactic Regions*
+
 **Resonance Credits (RC)** [TECHNICAL]
 *Pronunciation: R-C (spell out)*
 Rare currency generated when entertainment creates genuine emotional impact across species boundaries. The most valuable entertainment currency.
@@ -240,6 +255,11 @@ Rare currency generated when entertainment creates genuine emotional impact acro
 ---
 
 ### S
+
+**Syndicate Reaches** [CORE]
+*Pronunciation: SIN-dih-kit REECH-ez*
+A loose collection of systems where Consortium authority is negotiable and the Horizon Syndicate holds practical power. Known for decentralized governance, dynamic markets, and experimental entertainment content. Earth exists in a transitional zone between Syndicate Reaches and uncharted space.
+*Cross-reference: Horizon Syndicate, Galactic Regions*
 
 **Skills** [CORE]
 *Pronunciation: as English*
@@ -271,6 +291,11 @@ Numerical representations of contestant capabilities—strength, intelligence, a
 The dimensional fabric underlying physical reality. What humans perceive as "dark matter" and "dark energy" are crude approximations. Advanced civilizations operate within the substrate.
 *Cross-reference: Lattice, Pocket Dimension*
 
+**Substrate Rebellion** [TECHNICAL]
+*Pronunciation: SUB-strayt reh-BELL-yun*
+A catastrophic event approximately 500,000 cycles ago when unknown parties attempted to hack the System itself. The failure resulted in the quarantine of an entire stellar cluster—the Rebellion Scar. No survivors. The System's response suggests it doesn't appreciate modification attempts.
+*Cross-reference: Quarantine Zones, System*
+
 **System, The** [CORE]
 *Pronunciation: as English*
 The omnipresent game-management infrastructure. Includes the Lattice, Arbiter, Archive, and Audience Interface. Origin unclear. Possibly more than it appears.
@@ -279,6 +304,11 @@ The omnipresent game-management infrastructure. Includes the Lattice, Arbiter, A
 ---
 
 ### T
+
+**Thirteenth Founder** [TECHNICAL]
+*Pronunciation: as English*
+A forbidden topic in galactic politics. Official history states twelve species founded the Consortium, but architectural anomalies, linguistic traces, and Velthrani genealogical gaps suggest a thirteenth founding species existed. The Velthrani are uniquely hostile to any inquiry on this subject. What happened to the Thirteenth Founder—betrayal, imprisonment, transformation—remains one of the galaxy's most dangerous mysteries.
+*Cross-reference: Founders, Velthrani, Archive*
 
 **Thex Collective** [CORE]
 *Pronunciation: THEKS*
@@ -329,6 +359,10 @@ The following terms have been considered and rejected. Do NOT use these in the s
 **Factions**: Old Guard, Liberation Collective, Horizon Syndicate, Observers, Consortium
 
 **Game Mechanics**: Build, Class, Stats, Skills, Level, Progression, Inventory
+
+**Geography**: Core Worlds, Syndicate Reaches, Refuge Worlds, Quarantine Zones
+
+**History/Mystery**: Thirteenth Founder, Substrate Rebellion
 
 **Species**: Velthrani, Kindari, Thex Collective, Quorathi, Vorrax, Founders
 
