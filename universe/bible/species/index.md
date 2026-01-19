@@ -19,14 +19,17 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Keth'oran | Founder | Hostile | [founders/kethoran.md](founders/kethoran.md) |
 | Kindari | Major | Sympathetic | [major/kindari.md](major/kindari.md) |
 | Kraveth | Recurring | Hostile | [recurring/kraveth.md](recurring/kraveth.md) |
+| Luminara | Recurring | Sympathetic | [recurring/luminara.md](recurring/luminara.md) |
 | Mendari | Recurring | Neutral | [recurring/mendari.md](recurring/mendari.md) |
 | Morphex | Founder | Wildcard | [founders/morphex.md](founders/morphex.md) |
 | Nethyrim | Founder | Neutral | [founders/nethyrim.md](founders/nethyrim.md) |
+| Nullborn | Recurring | Wildcard | [recurring/nullborn.md](recurring/nullborn.md) |
 | Orvani | Recurring | Wildcard | [recurring/orvani.md](recurring/orvani.md) |
 | Phantari | Recurring | Hostile | [recurring/phantari.md](recurring/phantari.md) |
 | Quorathi | Major | Fascinated | [major/quorathi.md](major/quorathi.md) |
 | Skalven | Recurring | Neutral | [recurring/skalven.md](recurring/skalven.md) |
 | Shriven | Recurring | Neutral | [recurring/shriven.md](recurring/shriven.md) |
+| Serenith | Recurring | Neutral | [recurring/serenith.md](recurring/serenith.md) |
 | Skivari | Recurring | Wildcard | [recurring/skivari.md](recurring/skivari.md) |
 | Soleth | Founder | Sympathetic | [founders/soleth.md](founders/soleth.md) |
 | Sorvani | Recurring | Sympathetic | [recurring/sorvani.md](recurring/sorvani.md) |
@@ -92,6 +95,9 @@ The original architects of the System and Consortium.
 | Tesseri | Recurring | Full Member (Artisan Guild) |
 | Foundari | Recurring | Full Member (Industrial Consortium) |
 | Verdex | Recurring | Full Member (Bio-Architecture Guild) |
+| Serenith | Recurring | Honorary Observer (temporal exempt) |
+| Nullborn | Recurring | Undefined (existence unrecognized) |
+| Luminara | Recurring | Spiritual Advisors (non-voting) |
 
 *See background/ directory for Tier 3 species.*
 
@@ -135,6 +141,9 @@ Contestant-rights advocacy faction.
 | Axiom | Faction loyalty deemed inefficient |
 | Vorrax | Recognition disputed; operates outside system |
 | Humans | No faction representation (Entertainment Asset) |
+| Serenith | Temporal existence prevents lasting alliances |
+| Nullborn | Exist outside conventional structures |
+| Luminara | Serve cosmic harmony, not politics |
 
 ### Commercial/Academic Blocs
 
@@ -205,6 +214,7 @@ Species without strong position on humans.
 | Vexith | Recurring | Analytical; humans disrupt probability calculations |
 | Shriven | Recurring | Observational; watches and sells intelligence |
 | Foundari | Recurring | Professional; respects craftsmanship when demonstrated |
+| Serenith | Recurring | Cryptic; offers fragmented temporal guidance |
 
 ### Sympathetic
 
@@ -221,6 +231,7 @@ Species actively supporting or aiding humans.
 | Sorvani | Recurring | Former contestants; survivor solidarity |
 | Tesseri | Recurring | Respectful; admires human creativity despite limitations |
 | Verdex | Recurring | Protective; patient aid to short-lived species |
+| Luminara | Recurring | Benevolent; spiritual guidance for fragile melodies |
 
 ### Fascinated
 
@@ -243,6 +254,7 @@ Species whose attitude varies unpredictably.
 | Orvani | Recurring | Intimate; offers healing with implicit strings |
 | Skivari | Recurring | Mischievous; adores tricking humans for sport |
 | Veloxi | Recurring | Value-based; humans judged by information interest |
+| Nullborn | Recurring | Inexplicable; helps or hinders for unknowable reasons |
 
 ### Indifferent
 
@@ -268,7 +280,7 @@ Archetypes guide species role in storytelling.
 | **Diplomat** | Vor'enthal, Vaelthrim, Corvani, Thessari, Kaldrix | Mediation, negotiation |
 | **Spy** | Nethyrim, Shriven, Veloxi, Phantari | Information gathering, mystery |
 | **Artisan** | Dyathi, Tesseri, Foundari, Verdex | Creation, crafting, making |
-| **Mystic** | Axiom | Transcendent, unknowable |
+| **Mystic** | Axiom, Serenith, Nullborn, Luminara | Transcendent, unknowable |
 | **Outcast** | Humans | Outside the system, underdogs |
 | **Tyrant** | Velthrani, Thal'vex | Authority, domination |
 | **Predator** | Harken | Hunting, pursuit |
@@ -327,6 +339,7 @@ Non-corporeal or energy-matrix biology. See: [background/energy-based.md](backgr
 | Axiom | Founder | Distributed AI consciousness |
 | Synthara | Recurring | Crystalline energy matrices |
 | Vexith | Recurring | Probability-phased humanoids |
+| Luminara | Recurring | Living light/harmonic resonance |
 
 ### Gaseous
 
@@ -362,6 +375,8 @@ Non-standard existence. See: [background/energy-based.md](background/energy-base
 | Species | Tier | Notes |
 |---------|------|-------|
 | Nethyrim | Founder | Dimension-shifting |
+| Serenith | Recurring | Temporal phase-existence |
+| Nullborn | Recurring | Void-dwelling non-existence |
 
 ---
 
@@ -384,5 +399,5 @@ Non-standard existence. See: [background/energy-based.md](background/energy-base
 ---
 
 *Last Updated: 2026-01-19*
-*Total Species Catalogued: 39 (12 Founders, 5 Major, 22 Recurring)*
+*Total Species Catalogued: 42 (12 Founders, 5 Major, 25 Recurring)*
 *Background species pending population*
