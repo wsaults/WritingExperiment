@@ -355,6 +355,9 @@ Standard organic biology. See: [background/carbon-based.md](background/carbon-ba
 | Vethani | Recurring | Humanoid (exiled, de-bioluminescent) |
 | Rethaki | Recurring | Compact humanoid (radiation-adapted) |
 | Driftari | Recurring | Slender humanoid (iridescent, flexible) |
+| Exili | Recurring | Tall humanoid (silver-indigo, four-eyed) |
+| Remnari | Recurring | Slender humanoid (gray, dark-eyed refugees) |
+| Vakari | Recurring | Compact humanoid (combat-optimized, cybernetic) |
 
 ### Silicon-Based
 
@@ -376,6 +379,7 @@ Non-corporeal or energy-matrix biology. See: [background/energy-based.md](backgr
 | Synthara | Recurring | Crystalline energy matrices |
 | Vexith | Recurring | Probability-phased humanoids |
 | Luminara | Recurring | Living light/harmonic resonance |
+| Pyrovex | Recurring | Plasma entities (fire beings) |
 
 ### Gaseous
 
@@ -435,5 +439,5 @@ Non-standard existence. See: [background/energy-based.md](background/energy-base
 ---
 
 *Last Updated: 2026-01-19*
-*Total Species Catalogued: 46 (12 Founders, 5 Major, 29 Recurring)*
-*Background species pending population*
+*Total Species Catalogued: 50 (12 Founders, 5 Major, 33 Recurring)*
+*Background Species: 36 (15 Carbon-Based, 8 Energy-Based, 8 Gaseous, 5 Symbiotic)*
