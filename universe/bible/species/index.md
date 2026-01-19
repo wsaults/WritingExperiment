@@ -249,6 +249,84 @@ Contestant-rights advocacy faction.
 | Foundari | Industrial Consortium | Living furnace smiths |
 | Verdex | Bio-Architecture Guild | Living structure cultivators |
 
+### Background Species (Tier 3)
+
+Tier 3 species lack formal Consortium representation. Most operate under local governance systems without galactic political engagement. Their Classification indicates implicit stance toward contestant-rights and the games.
+
+**Sympathetic Alignment** (14 species)
+
+Species whose nature or culture informally aligns with Liberation Collective values.
+
+| Species | Biology | Notes |
+|---------|---------|-------|
+| Bovari | Carbon | Agricultural; community values |
+| Delphari | Carbon | Pod-based; curiosity and playfulness |
+| Pachori | Carbon | Memory-keepers; empathy for loss |
+| Vixari | Carbon | Marginalized; value in discarded |
+| Aerith | Gaseous | Observers; protects secrets |
+| Nebulan | Gaseous | Patient; cosmic perspective |
+| Vaporis | Gaseous | Nurturers; compulsive caretakers |
+| Geothrix | Silicon | Patient guardians; protective |
+| Pumicari | Silicon | Drifters; accept all beings |
+| Sedimentari | Silicon | History-obsessed; witness-bearers |
+| Photosynth | Energy | Art-focused; beauty-seekers |
+| Solari | Energy | Light-givers; generous helpers |
+| Lichori | Symbiotic | Consensus-based; mediators |
+| Mycelith | Symbiotic | Connected networks; patient allies |
+
+**Neutral / Unaffiliated** (17 species)
+
+No significant political stance; operate outside factional structures.
+
+| Species | Biology | Notes |
+|---------|---------|-------|
+| Amphrex | Carbon | Dual-environment; adaptable mediators |
+| Cervathi | Carbon | Flight-focused; territorial knowledge |
+| Corvex | Carbon | Collectors; artifact traders |
+| Crustari | Carbon | Molt-based society; salvage masters |
+| Goreth | Carbon | Strength-hierarchy; honor-bound |
+| Torthan | Carbon | Patience religion; unbreakable contracts |
+| Ursathi | Carbon | Hibernation society; patient traders |
+| Cyroform | Gaseous | Preservation-focused; archivists |
+| Miasmath | Gaseous | Pure logic; pattern-based |
+| Crysthari | Silicon | Value-obsessed; gem hierarchy |
+| Lithori | Silicon | Resonance-based; geological patience |
+| Marbleth | Silicon | Pressure philosophy; artisans |
+| Stalactari | Silicon | Growth-obsessed; underground dwellers |
+| Thermari | Energy | Temperature communication; impersonal |
+| Waveth | Energy | Sound-based; translator-diplomats |
+| Commensari | Symbiotic | Colony democracy; slow decisions |
+| Duosynth | Symbiotic | Binary organism; partnership-focused |
+
+**Anti-System Elements** (6 species)
+
+Species with philosophies or behaviors that conflict with Consortium governance.
+
+| Species | Biology | Notes |
+|---------|---------|-------|
+| Arachni | Carbon | Territorial; view others as prey |
+| Fumerex | Gaseous | Pollution-spreaders; incompatible atmospheres |
+| Obsidari | Silicon | Shatter-based death cult; destructive |
+| Radiax | Energy | Hazardous; contamination-spreaders |
+| Voidling | Energy | Entropy worshippers; existence-enders |
+| Parasitori | Symbiotic | Host-riding; body autonomy violators |
+
+**Independent Operators** (9 species)
+
+Wildcard species with unpredictable alignments; deal on case-by-case basis.
+
+| Species | Biology | Notes |
+|---------|---------|-------|
+| Felixar | Carbon | Fiercely independent; no central government |
+| Lupari | Carbon | Pack-loyalty; outsiders must earn trust |
+| Serpenthi | Carbon | Truth-tellers; heat-seekers |
+| Mistral | Gaseous | Freedom-obsessed; wind contracts |
+| Pyrovapor | Gaseous | Passion-driven; emotional volatility |
+| Ferrix | Silicon | Magnetic hierarchy; attractive contracts |
+| Magnetari | Silicon | Polarity-based; opposites attract |
+| Pulsar | Energy | Rhythm-obsessed; predictability values |
+| Staticari | Energy | Charge-based honesty; cannot deceive |
+
 ---
 
 ## 4. Human Attitude
