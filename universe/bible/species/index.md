@@ -9,6 +9,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Species | Tier | Classification | File |
 |---------|------|----------------|------|
 | Axiom | Founder | Wildcard | [founders/axiom.md](founders/axiom.md) |
+| Chimeran | Recurring | Hostile | [recurring/chimeran.md](recurring/chimeran.md) |
 | Dyathi | Founder | Sympathetic | [founders/dyathi.md](founders/dyathi.md) |
 | Harken | Founder | Hostile | [founders/harken.md](founders/harken.md) |
 | Humans | Major | Contestant | [major/humans.md](major/humans.md) |
@@ -21,6 +22,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Orvani | Recurring | Wildcard | [recurring/orvani.md](recurring/orvani.md) |
 | Quorathi | Major | Fascinated | [major/quorathi.md](major/quorathi.md) |
 | Skalven | Recurring | Neutral | [recurring/skalven.md](recurring/skalven.md) |
+| Skivari | Recurring | Wildcard | [recurring/skivari.md](recurring/skivari.md) |
 | Soleth | Founder | Sympathetic | [founders/soleth.md](founders/soleth.md) |
 | Sorvani | Recurring | Sympathetic | [recurring/sorvani.md](recurring/sorvani.md) |
 | Synthara | Recurring | Neutral | [recurring/synthara.md](recurring/synthara.md) |
@@ -30,6 +32,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Tormak | Recurring | Wildcard | [recurring/tormak.md](recurring/tormak.md) |
 | Vaelthrim | Founder | Neutral | [founders/vaelthrim.md](founders/vaelthrim.md) |
 | Velathi | Recurring | Sympathetic | [recurring/velathi.md](recurring/velathi.md) |
+| Vexith | Recurring | Neutral | [recurring/vexith.md](recurring/vexith.md) |
 | Velith | Recurring | Sympathetic | [recurring/velith.md](recurring/velith.md) |
 | Velthrani | Founder | Hostile | [founders/velthrani.md](founders/velthrani.md) |
 | Vor'enthal | Founder | Sympathetic | [founders/vorenthal.md](founders/vorenthal.md) |
@@ -164,6 +167,7 @@ Species actively opposed to human success in games.
 | Thal'vex | Founder | Dismissive; views as primitive entertainment |
 | Kraveth | Recurring | Sporting; entertaining prey to hunt |
 | Xelthari | Recurring | Clinical; resource extraction opportunity |
+| Chimeran | Recurring | Exploitative; humans are easy identity theft targets |
 
 ### Neutral
 
@@ -177,6 +181,7 @@ Species without strong position on humans.
 | Skalven | Recurring | Professional; potential clients or competitors |
 | Synthara | Recurring | Clinical; statistical interest only |
 | Mendari | Recurring | Clinical; excellent but impersonal care |
+| Vexith | Recurring | Analytical; humans disrupt probability calculations |
 
 ### Sympathetic
 
@@ -211,6 +216,7 @@ Species whose attitude varies unpredictably.
 | Vorrax | Major | Honor-based; respect or disdain per individual |
 | Tormak | Recurring | Combat-driven; fascinated or hostile depending on challenge |
 | Orvani | Recurring | Intimate; offers healing with implicit strings |
+| Skivari | Recurring | Mischievous; adores tricking humans for sport |
 
 ### Indifferent
 
@@ -232,7 +238,7 @@ Archetypes guide species role in storytelling.
 | **Merchant** | Thex Collective, Keth'oran | Economic/trading focused |
 | **Scholar** | Quorathi | Research, knowledge accumulation |
 | **Healer** | Kindari, Soleth, Velith, Synthara, Orvani, Velathi, Mendari, Sorvani | Support, empathy-driven |
-| **Trickster** | Morphex | Shapeshifting, deception, chaos |
+| **Trickster** | Morphex, Skivari, Vexith, Chimeran | Deception, chaos, misdirection |
 | **Diplomat** | Vor'enthal, Vaelthrim | Mediation, relationship management |
 | **Spy** | Nethyrim | Information gathering, mystery |
 | **Artisan** | Dyathi | Creation, bonded crafting |
@@ -267,6 +273,8 @@ Standard organic biology. See: [background/carbon-based.md](background/carbon-ba
 | Velathi | Recurring | Humanoid (bioluminescent) |
 | Mendari | Recurring | Arthropod (medical) |
 | Sorvani | Recurring | Aquatic humanoid |
+| Skivari | Recurring | Small humanoid (illusionist) |
+| Chimeran | Recurring | Shapeshifter (partial) |
 
 ### Silicon-Based
 
@@ -286,6 +294,7 @@ Non-corporeal or energy-matrix biology. See: [background/energy-based.md](backgr
 | Thal'vex | Founder | Sentient light patterns |
 | Axiom | Founder | Distributed AI consciousness |
 | Synthara | Recurring | Crystalline energy matrices |
+| Vexith | Recurring | Probability-phased humanoids |
 
 ### Gaseous
 
@@ -343,5 +352,5 @@ Non-standard existence. See: [background/energy-based.md](background/energy-base
 ---
 
 *Last Updated: 2026-01-19*
-*Total Species Catalogued: 24 (12 Founders, 5 Major, 7 Recurring)*
+*Total Species Catalogued: 30 (12 Founders, 5 Major, 13 Recurring)*
 *Background species pending population*
