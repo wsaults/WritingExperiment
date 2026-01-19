@@ -8,58 +8,104 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 
 | Species | Tier | Classification | File |
 |---------|------|----------------|------|
+| Aerith | Background | Sympathetic | [background/gaseous.md](background/gaseous.md) |
+| Amphrex | Background | Neutral | [background/carbon-based/amphrex.md](background/carbon-based/amphrex.md) |
+| Arachni | Background | Hostile | [background/carbon-based/arachni.md](background/carbon-based/arachni.md) |
 | Axiom | Founder | Wildcard | [founders/axiom.md](founders/axiom.md) |
+| Bovari | Background | Sympathetic | [background/carbon-based/bovari.md](background/carbon-based/bovari.md) |
+| Cervathi | Background | Neutral | [background/carbon-based/cervathi.md](background/carbon-based/cervathi.md) |
 | Chimeran | Recurring | Hostile | [recurring/chimeran.md](recurring/chimeran.md) |
+| Commensari | Background | Neutral | [background/symbiotic.md](background/symbiotic.md) |
 | Corvani | Recurring | Neutral | [recurring/corvani.md](recurring/corvani.md) |
+| Corvex | Background | Neutral | [background/carbon-based/corvex.md](background/carbon-based/corvex.md) |
+| Crustari | Background | Neutral | [background/carbon-based/crustari.md](background/carbon-based/crustari.md) |
+| Crysthari | Background | Neutral | [background/silicon-based.md](background/silicon-based.md) |
+| Cyroform | Background | Neutral | [background/gaseous.md](background/gaseous.md) |
+| Delphari | Background | Sympathetic | [background/carbon-based/delphari.md](background/carbon-based/delphari.md) |
 | Driftari | Recurring | Neutral | [recurring/driftari.md](recurring/driftari.md) |
+| Duosynth | Background | Neutral | [background/symbiotic.md](background/symbiotic.md) |
 | Dyathi | Founder | Sympathetic | [founders/dyathi.md](founders/dyathi.md) |
 | Exili | Recurring | Neutral | [recurring/exili.md](recurring/exili.md) |
+| Felixar | Background | Wildcard | [background/carbon-based/felixar.md](background/carbon-based/felixar.md) |
+| Ferrix | Background | Wildcard | [background/silicon-based.md](background/silicon-based.md) |
 | Foundari | Recurring | Neutral | [recurring/foundari.md](recurring/foundari.md) |
+| Fumerex | Background | Hostile | [background/gaseous.md](background/gaseous.md) |
+| Geothrix | Background | Sympathetic | [background/silicon-based.md](background/silicon-based.md) |
+| Goreth | Background | Neutral | [background/carbon-based/goreth.md](background/carbon-based/goreth.md) |
 | Harken | Founder | Hostile | [founders/harken.md](founders/harken.md) |
 | Humans | Major | Contestant | [major/humans.md](major/humans.md) |
 | Kaldrix | Recurring | Neutral | [recurring/kaldrix.md](recurring/kaldrix.md) |
 | Keth'oran | Founder | Hostile | [founders/kethoran.md](founders/kethoran.md) |
 | Kindari | Major | Sympathetic | [major/kindari.md](major/kindari.md) |
 | Kraveth | Recurring | Hostile | [recurring/kraveth.md](recurring/kraveth.md) |
+| Lichori | Background | Sympathetic | [background/symbiotic.md](background/symbiotic.md) |
+| Lithori | Background | Neutral | [background/silicon-based.md](background/silicon-based.md) |
 | Luminara | Recurring | Sympathetic | [recurring/luminara.md](recurring/luminara.md) |
+| Lupari | Background | Wildcard | [background/carbon-based/lupari.md](background/carbon-based/lupari.md) |
+| Magnetari | Background | Wildcard | [background/silicon-based.md](background/silicon-based.md) |
+| Marbleth | Background | Neutral | [background/silicon-based.md](background/silicon-based.md) |
 | Mendari | Recurring | Neutral | [recurring/mendari.md](recurring/mendari.md) |
+| Miasmath | Background | Neutral | [background/gaseous.md](background/gaseous.md) |
+| Mistral | Background | Wildcard | [background/gaseous.md](background/gaseous.md) |
 | Morphex | Founder | Wildcard | [founders/morphex.md](founders/morphex.md) |
+| Mycelith | Background | Sympathetic | [background/symbiotic.md](background/symbiotic.md) |
+| Nebulan | Background | Sympathetic | [background/gaseous.md](background/gaseous.md) |
 | Nethyrim | Founder | Neutral | [founders/nethyrim.md](founders/nethyrim.md) |
 | Nullborn | Recurring | Wildcard | [recurring/nullborn.md](recurring/nullborn.md) |
+| Obsidari | Background | Hostile | [background/silicon-based.md](background/silicon-based.md) |
 | Orvani | Recurring | Wildcard | [recurring/orvani.md](recurring/orvani.md) |
+| Pachori | Background | Sympathetic | [background/carbon-based/pachori.md](background/carbon-based/pachori.md) |
+| Parasitori | Background | Hostile | [background/symbiotic.md](background/symbiotic.md) |
 | Phantari | Recurring | Hostile | [recurring/phantari.md](recurring/phantari.md) |
+| Photosynth | Background | Sympathetic | [background/energy-based.md](background/energy-based.md) |
 | Psythori | Recurring | Hostile | [recurring/psythori.md](recurring/psythori.md) |
+| Pulsar | Background | Wildcard | [background/energy-based.md](background/energy-based.md) |
+| Pumicari | Background | Sympathetic | [background/silicon-based.md](background/silicon-based.md) |
+| Pyrovapor | Background | Wildcard | [background/gaseous.md](background/gaseous.md) |
 | Pyrovex | Recurring | Wildcard | [recurring/pyrovex.md](recurring/pyrovex.md) |
 | Quorathi | Major | Fascinated | [major/quorathi.md](major/quorathi.md) |
+| Radiax | Background | Hostile | [background/energy-based.md](background/energy-based.md) |
 | Remnari | Recurring | Sympathetic | [recurring/remnari.md](recurring/remnari.md) |
 | Rethaki | Recurring | Sympathetic | [recurring/rethaki.md](recurring/rethaki.md) |
-| Skalven | Recurring | Neutral | [recurring/skalven.md](recurring/skalven.md) |
-| Shriven | Recurring | Neutral | [recurring/shriven.md](recurring/shriven.md) |
+| Sedimentari | Background | Sympathetic | [background/silicon-based.md](background/silicon-based.md) |
 | Serenith | Recurring | Neutral | [recurring/serenith.md](recurring/serenith.md) |
+| Serpenthi | Background | Wildcard | [background/carbon-based/serpenthi.md](background/carbon-based/serpenthi.md) |
+| Shriven | Recurring | Neutral | [recurring/shriven.md](recurring/shriven.md) |
+| Skalven | Recurring | Neutral | [recurring/skalven.md](recurring/skalven.md) |
 | Skivari | Recurring | Wildcard | [recurring/skivari.md](recurring/skivari.md) |
+| Solari | Background | Sympathetic | [background/energy-based.md](background/energy-based.md) |
 | Soleth | Founder | Sympathetic | [founders/soleth.md](founders/soleth.md) |
 | Sorvani | Recurring | Sympathetic | [recurring/sorvani.md](recurring/sorvani.md) |
+| Stalactari | Background | Neutral | [background/silicon-based.md](background/silicon-based.md) |
+| Staticari | Background | Wildcard | [background/energy-based.md](background/energy-based.md) |
 | Synthara | Recurring | Neutral | [recurring/synthara.md](recurring/synthara.md) |
 | Tesseri | Recurring | Sympathetic | [recurring/tesseri.md](recurring/tesseri.md) |
-| Thessari | Recurring | Sympathetic | [recurring/thessari.md](recurring/thessari.md) |
 | Thal'vex | Founder | Hostile | [founders/thalvex.md](founders/thalvex.md) |
 | Tharaxim | Founder | Neutral | [founders/tharaxim.md](founders/tharaxim.md) |
+| Thermari | Background | Neutral | [background/energy-based.md](background/energy-based.md) |
+| Thessari | Recurring | Sympathetic | [recurring/thessari.md](recurring/thessari.md) |
 | Thex Collective | Major | Indifferent | [major/thex-collective.md](major/thex-collective.md) |
 | Tormak | Recurring | Wildcard | [recurring/tormak.md](recurring/tormak.md) |
+| Torthan | Background | Neutral | [background/carbon-based/torthan.md](background/carbon-based/torthan.md) |
+| Ursathi | Background | Neutral | [background/carbon-based/ursathi.md](background/carbon-based/ursathi.md) |
 | Vaelthrim | Founder | Neutral | [founders/vaelthrim.md](founders/vaelthrim.md) |
 | Vakari | Recurring | Wildcard | [recurring/vakari.md](recurring/vakari.md) |
+| Vaporis | Background | Sympathetic | [background/gaseous.md](background/gaseous.md) |
 | Velathi | Recurring | Sympathetic | [recurring/velathi.md](recurring/velathi.md) |
+| Velith | Recurring | Sympathetic | [recurring/velith.md](recurring/velith.md) |
 | Veloxi | Recurring | Wildcard | [recurring/veloxi.md](recurring/veloxi.md) |
+| Velthrani | Founder | Hostile | [founders/velthrani.md](founders/velthrani.md) |
 | Verdex | Recurring | Sympathetic | [recurring/verdex.md](recurring/verdex.md) |
 | Vethani | Recurring | Sympathetic | [recurring/vethani.md](recurring/vethani.md) |
 | Vexith | Recurring | Neutral | [recurring/vexith.md](recurring/vexith.md) |
-| Velith | Recurring | Sympathetic | [recurring/velith.md](recurring/velith.md) |
-| Velthrani | Founder | Hostile | [founders/velthrani.md](founders/velthrani.md) |
+| Vixari | Background | Sympathetic | [background/carbon-based/vixari.md](background/carbon-based/vixari.md) |
+| Voidling | Background | Hostile | [background/energy-based.md](background/energy-based.md) |
 | Vor'enthal | Founder | Sympathetic | [founders/vorenthal.md](founders/vorenthal.md) |
 | Vorrax | Major | Wildcard | [major/vorrax.md](major/vorrax.md) |
+| Waveth | Background | Neutral | [background/energy-based.md](background/energy-based.md) |
 | Xelthari | Recurring | Hostile | [recurring/xelthari.md](recurring/xelthari.md) |
 
-*Background species (Tier 3) listed in biology-grouped files below.*
+*96 species total: 12 Founders, 5 Major, 33 Recurring, 46 Background*
 
 ---
 
@@ -439,5 +485,5 @@ Non-standard existence. See: [background/energy-based.md](background/energy-base
 ---
 
 *Last Updated: 2026-01-19*
-*Total Species Catalogued: 50 (12 Founders, 5 Major, 33 Recurring)*
-*Background Species: 36 (15 Carbon-Based, 8 Energy-Based, 8 Gaseous, 5 Symbiotic)*
+*Total Species Catalogued: 96 (12 Founders, 5 Major, 33 Recurring, 46 Background)*
+*Background Species: 46 (15 Carbon-Based, 10 Silicon-Based, 8 Energy-Based, 8 Gaseous, 5 Symbiotic)*
