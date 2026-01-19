@@ -15,16 +15,22 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Keth'oran | Founder | Hostile | [founders/kethoran.md](founders/kethoran.md) |
 | Kindari | Major | Sympathetic | [major/kindari.md](major/kindari.md) |
 | Kraveth | Recurring | Hostile | [recurring/kraveth.md](recurring/kraveth.md) |
+| Mendari | Recurring | Neutral | [recurring/mendari.md](recurring/mendari.md) |
 | Morphex | Founder | Wildcard | [founders/morphex.md](founders/morphex.md) |
 | Nethyrim | Founder | Neutral | [founders/nethyrim.md](founders/nethyrim.md) |
+| Orvani | Recurring | Wildcard | [recurring/orvani.md](recurring/orvani.md) |
 | Quorathi | Major | Fascinated | [major/quorathi.md](major/quorathi.md) |
 | Skalven | Recurring | Neutral | [recurring/skalven.md](recurring/skalven.md) |
 | Soleth | Founder | Sympathetic | [founders/soleth.md](founders/soleth.md) |
+| Sorvani | Recurring | Sympathetic | [recurring/sorvani.md](recurring/sorvani.md) |
+| Synthara | Recurring | Neutral | [recurring/synthara.md](recurring/synthara.md) |
 | Thal'vex | Founder | Hostile | [founders/thalvex.md](founders/thalvex.md) |
 | Tharaxim | Founder | Neutral | [founders/tharaxim.md](founders/tharaxim.md) |
 | Thex Collective | Major | Indifferent | [major/thex-collective.md](major/thex-collective.md) |
 | Tormak | Recurring | Wildcard | [recurring/tormak.md](recurring/tormak.md) |
 | Vaelthrim | Founder | Neutral | [founders/vaelthrim.md](founders/vaelthrim.md) |
+| Velathi | Recurring | Sympathetic | [recurring/velathi.md](recurring/velathi.md) |
+| Velith | Recurring | Sympathetic | [recurring/velith.md](recurring/velith.md) |
 | Velthrani | Founder | Hostile | [founders/velthrani.md](founders/velthrani.md) |
 | Vor'enthal | Founder | Sympathetic | [founders/vorenthal.md](founders/vorenthal.md) |
 | Vorrax | Major | Wildcard | [major/vorrax.md](major/vorrax.md) |
@@ -68,6 +74,9 @@ The original architects of the System and Consortium.
 | Tormak | Recurring | Provisional (Behavioral Monitoring) |
 | Skalven | Recurring | Full Member (Mercenary Registry) |
 | Xelthari | Recurring | Associate (Resource Extraction) |
+| Velith | Recurring | Full Member (Medical Guild) |
+| Synthara | Recurring | Full Member (Technical Services) |
+| Orvani | Recurring | Restricted (Biological Hazard) |
 
 *See background/ directory for Tier 3 species.*
 
@@ -132,6 +141,13 @@ Contestant-rights advocacy faction.
 |---------|------|-------|
 | Xelthari | Resource Consortium | Mining and processing operations |
 
+### Medical/Technical Services
+
+| Species | Bloc | Notes |
+|---------|------|-------|
+| Velith | Medical Guild | Botanical healing specialists |
+| Synthara | Technical Services | Crystalline precision medicine |
+
 ---
 
 ## 4. Human Attitude
@@ -159,6 +175,7 @@ Species without strong position on humans.
 | Tharaxim | Founder | Indifferent; minimal engagement |
 | Nethyrim | Founder | Unpredictable; inconsistent interest |
 | Skalven | Recurring | Professional; potential clients or competitors |
+| Synthara | Recurring | Clinical; statistical interest only |
 
 ### Sympathetic
 
@@ -170,6 +187,7 @@ Species actively supporting or aiding humans.
 | Soleth | Founder | Reluctant; provides covert support |
 | Vor'enthal | Founder | Diplomatic cover; facilitates allies |
 | Dyathi | Founder | Emotional support; memory-sharing offers |
+| Velith | Recurring | Compassionate; offers healing when possible |
 
 ### Fascinated
 
@@ -189,6 +207,7 @@ Species whose attitude varies unpredictably.
 | Axiom | Founder | Interest-driven; changes with data priorities |
 | Vorrax | Major | Honor-based; respect or disdain per individual |
 | Tormak | Recurring | Combat-driven; fascinated or hostile depending on challenge |
+| Orvani | Recurring | Intimate; offers healing with implicit strings |
 
 ### Indifferent
 
@@ -209,7 +228,7 @@ Archetypes guide species role in storytelling.
 | **Warrior** | Harken, Vorrax, Kraveth, Tormak, Skalven, Xelthari | Combat-focused cultures |
 | **Merchant** | Thex Collective, Keth'oran | Economic/trading focused |
 | **Scholar** | Quorathi | Research, knowledge accumulation |
-| **Healer** | Kindari, Soleth | Support, empathy-driven |
+| **Healer** | Kindari, Soleth, Velith, Synthara, Orvani | Support, empathy-driven |
 | **Trickster** | Morphex | Shapeshifting, deception, chaos |
 | **Diplomat** | Vor'enthal, Vaelthrim | Mediation, relationship management |
 | **Spy** | Nethyrim | Information gathering, mystery |
@@ -241,6 +260,7 @@ Standard organic biology. See: [background/carbon-based.md](background/carbon-ba
 | Kraveth | Recurring | Reptilian gladiator |
 | Tormak | Recurring | Insectoid (mantis-like) |
 | Skalven | Recurring | Mammalian (canine/ursine) |
+| Velith | Recurring | Plant-animal hybrid |
 
 ### Silicon-Based
 
@@ -259,6 +279,7 @@ Non-corporeal or energy-matrix biology. See: [background/energy-based.md](backgr
 |---------|------|-------|
 | Thal'vex | Founder | Sentient light patterns |
 | Axiom | Founder | Distributed AI consciousness |
+| Synthara | Recurring | Crystalline energy matrices |
 
 ### Gaseous
 
@@ -277,6 +298,7 @@ Bonded or multi-organism biology. See: [background/symbiotic.md](background/symb
 | Dyathi | Founder | Bonded pairs |
 | Thex Collective | Major | Hive-mind collective |
 | Morphex | Founder | Shapeshifting amalgam |
+| Orvani | Recurring | Host-parasite bonded pairs |
 
 ### Aquatic
 
@@ -315,5 +337,5 @@ Non-standard existence. See: [background/energy-based.md](background/energy-base
 ---
 
 *Last Updated: 2026-01-19*
-*Total Species Catalogued: 21 (12 Founders, 5 Major, 4 Recurring)*
+*Total Species Catalogued: 24 (12 Founders, 5 Major, 7 Recurring)*
 *Background species pending population*
