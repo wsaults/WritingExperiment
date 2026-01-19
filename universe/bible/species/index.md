@@ -26,6 +26,7 @@ Quick-reference index organizing all species documentation across 6 taxonomies.
 | Nullborn | Recurring | Wildcard | [recurring/nullborn.md](recurring/nullborn.md) |
 | Orvani | Recurring | Wildcard | [recurring/orvani.md](recurring/orvani.md) |
 | Phantari | Recurring | Hostile | [recurring/phantari.md](recurring/phantari.md) |
+| Psythori | Recurring | Hostile | [recurring/psythori.md](recurring/psythori.md) |
 | Quorathi | Major | Fascinated | [major/quorathi.md](major/quorathi.md) |
 | Skalven | Recurring | Neutral | [recurring/skalven.md](recurring/skalven.md) |
 | Shriven | Recurring | Neutral | [recurring/shriven.md](recurring/shriven.md) |
@@ -98,6 +99,7 @@ The original architects of the System and Consortium.
 | Serenith | Recurring | Honorary Observer (temporal exempt) |
 | Nullborn | Recurring | Undefined (existence unrecognized) |
 | Luminara | Recurring | Spiritual Advisors (non-voting) |
+| Psythori | Recurring | Full Member (Containment Protocols) |
 
 *See background/ directory for Tier 3 species.*
 
@@ -198,6 +200,7 @@ Species actively opposed to human success in games.
 | Xelthari | Recurring | Clinical; resource extraction opportunity |
 | Chimeran | Recurring | Exploitative; humans are easy identity theft targets |
 | Phantari | Recurring | Predatory; humans are soft targets for infiltration |
+| Psythori | Recurring | Acquisitive; humans are high-value neural consumption targets |
 
 ### Neutral
 
@@ -284,6 +287,7 @@ Archetypes guide species role in storytelling.
 | **Outcast** | Humans | Outside the system, underdogs |
 | **Tyrant** | Velthrani, Thal'vex | Authority, domination |
 | **Predator** | Harken | Hunting, pursuit |
+| **Dominator** | Psythori | Psychic control, mental predation |
 
 *Note: Species may embody multiple archetypes. Primary archetype listed.*
 
@@ -319,6 +323,7 @@ Standard organic biology. See: [background/carbon-based.md](background/carbon-ba
 | Tesseri | Recurring | Humanoid (multi-armed artisan) |
 | Foundari | Recurring | Stone-plated (internal furnace) |
 | Verdex | Recurring | Plant-like humanoid |
+| Psythori | Recurring | Cephalopod-humanoid (psychic) |
 
 ### Silicon-Based
 
@@ -399,5 +404,5 @@ Non-standard existence. See: [background/energy-based.md](background/energy-base
 ---
 
 *Last Updated: 2026-01-19*
-*Total Species Catalogued: 42 (12 Founders, 5 Major, 25 Recurring)*
+*Total Species Catalogued: 43 (12 Founders, 5 Major, 26 Recurring)*
 *Background species pending population*
